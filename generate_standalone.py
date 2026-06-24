@@ -38,7 +38,7 @@ templates = [
     {"name": "顶级咨询风", "desc": "商业咨询 · 战略报告", "color": "#C9A96E", "folder": "06_顶级咨询风/svg_output", "ext": "svg"},
     {"name": "奢华杂志风", "desc": "高端品牌 · 奢侈品", "color": "#D4AF37", "folder": "07_奢华杂志风/svg_output", "ext": "svg"},
     {"name": "工程蓝图风", "desc": "技术文档 · 系统架构", "color": "#4A90D9", "folder": "08_工程蓝图风/svg_output", "ext": "svg"},
-    {"name": "AI时代人的价值在哪里", "desc": "人文思考 · AI时代", "color": "#C9A96E", "folder": "09_AI时代人的价值/slides", "ext": "png"},
+    {"name": "AI时代人的价值在哪里", "desc": "人文思考 · AI时代", "color": "#C9A96E", "folder": "09_AI时代人的价值/slides", "ext": "jpg"},
 ]
 
 # 收集所有图片的base64
