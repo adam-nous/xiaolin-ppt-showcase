@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="#1A1A1A" />
+    <rect x="0" y="0" width="1280" height="8" fill="#FF0000" />
+    <rect x="0" y="712" width="1280" height="8" fill="#FF0000" />
+  </g>
+
+  <g id="header" data-anim="true">
+<rect x="40" y="40" width="1200" height="60" fill="#FF0000" />
+    <text x="640" y="80" font-family="Impact, Arial Black, sans-serif" font-size="28" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="8">CASE SHOWCASE</text>
+  </g>
+
+  <g id="case-1">
+    <rect x="80" y="140" width="560" height="240" fill="#333333" />
+    <rect x="80" y="140" width="8" height="240" fill="#FF0000" />
+    <text x="110" y="180" font-family="Impact, Arial Black, sans-serif" font-size="28" font-weight="900" fill="#FFFFFF">海报设计</text>
+    <text x="110" y="210" font-family="Arial, sans-serif" font-size="14" fill="#CCCCCC">高对比度、大字号、强视觉冲击</text>
+    <rect x="110" y="240" width="200" height="100" fill="#FF0000" />
+    <text x="210" y="300" font-family="Impact, Arial Black, sans-serif" font-size="36" font-weight="900" fill="#FFFFFF" text-anchor="middle">海报</text>
+    <rect x="330" y="240" width="200" height="100" fill="#FFFFFF" />
+    <text x="430" y="300" font-family="Impact, Arial Black, sans-serif" font-size="36" font-weight="900" fill="#1A1A1A" text-anchor="middle">设计</text>
+  </g>
+
+  <g id="case-2">
+    <rect x="640" y="140" width="560" height="240" fill="#333333" />
+    <rect x="640" y="140" width="8" height="240" fill="#FF0000" />
+    <text x="670" y="180" font-family="Impact, Arial Black, sans-serif" font-size="28" font-weight="900" fill="#FFFFFF">网页设计</text>
+    <text x="670" y="210" font-family="Arial, sans-serif" font-size="14" fill="#CCCCCC">极简布局、粗犷线条、原始美感</text>
+    <rect x="670" y="240" width="500" height="100" fill="#1A1A1A" stroke="#FF0000" stroke-width="4" />
+    <text x="920" y="300" font-family="Impact, Arial Black, sans-serif" font-size="36" font-weight="900" fill="#FF0000" text-anchor="middle">网页设计</text>
+  </g>
+
+  <g id="case-3">
+    <rect x="80" y="410" width="560" height="240" fill="#333333" />
+    <rect x="80" y="410" width="8" height="240" fill="#FF0000" />
+    <text x="110" y="450" font-family="Impact, Arial Black, sans-serif" font-size="28" font-weight="900" fill="#FFFFFF">品牌设计</text>
+    <text x="110" y="480" font-family="Arial, sans-serif" font-size="14" fill="#CCCCCC">原始、真实、有力量感</text>
+    <rect x="110" y="510" width="500" height="100" fill="#FF0000" />
+    <text x="360" y="570" font-family="Impact, Arial Black, sans-serif" font-size="48" font-weight="900" fill="#FFFFFF" text-anchor="middle">BRAND</text>
+  </g>
+
+  <g id="case-4">
+    <rect x="640" y="410" width="560" height="240" fill="#333333" />
+    <rect x="640" y="410" width="8" height="240" fill="#FF0000" />
+    <text x="670" y="450" font-family="Impact, Arial Black, sans-serif" font-size="28" font-weight="900" fill="#FFFFFF">包装设计</text>
+    <text x="670" y="480" font-family="Arial, sans-serif" font-size="14" fill="#CCCCCC">极简主义、高对比度、醒目</text>
+    <rect x="670" y="510" width="240" height="100" fill="#FFFFFF" />
+    <text x="790" y="570" font-family="Impact, Arial Black, sans-serif" font-size="36" font-weight="900" fill="#FF0000" text-anchor="middle">包装</text>
+    <rect x="930" y="510" width="240" height="100" fill="#FF0000" />
+    <text x="1050" y="570" font-family="Impact, Arial Black, sans-serif" font-size="36" font-weight="900" fill="#FFFFFF" text-anchor="middle">设计</text>
+  </g>
+
+  <g id="sidebar">
+    <rect x="980" y="140" width="220" height="0" fill="#333333" />
+    <text x="1090" y="200" font-family="Impact, Arial Black, sans-serif" font-size="80" font-weight="900" fill="#FF0000" text-anchor="middle">07</text>
+  </g>
+
+  <g id="footer-bar">
+    <rect x="40" y="640" width="1200" height="40" fill="#333333" />
+    <text x="640" y="665" font-family="Arial, sans-serif" font-size="14" fill="#CCCCCC" text-anchor="middle">BRUTALIST NEWSPAPER · 2026</text>
+  </g>
+</svg>

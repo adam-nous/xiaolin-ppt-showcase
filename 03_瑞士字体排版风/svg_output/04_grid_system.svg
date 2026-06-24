@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="gridBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FAFAFA" />
+      <stop offset="100%" stop-color="#F5F5F5" />
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#gridBg)" />
+    <line x1="80" y1="0" x2="80" y2="720" stroke="#E0E0E0" stroke-width="0.5" />
+    <line x1="400" y1="0" x2="400" y2="720" stroke="#E0E0E0" stroke-width="0.5" />
+    <line x1="720" y1="0" x2="720" y2="720" stroke="#E0E0E0" stroke-width="0.5" />
+    <line x1="1040" y1="0" x2="1040" y2="720" stroke="#E0E0E0" stroke-width="0.5" />
+  </g>
+
+  <g id="header" data-anim="true">
+<text x="80" y="60" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#E53E3E" letter-spacing="3">GRID SYSTEM</text>
+    <text x="80" y="100" font-family="Helvetica, Arial, sans-serif" font-size="36" font-weight="700" fill="#1A202C">网格系统</text>
+    <line x1="80" y1="115" x2="300" y2="115" stroke="#E53E3E" stroke-width="2" />
+  </g>
+
+  <g id="grid-demo">
+    <rect x="80" y="150" width="1120" height="400" fill="none" stroke="#E53E3E" stroke-width="2" />
+    
+    <line x1="173" y1="150" x2="173" y2="550" stroke="#E53E3E" stroke-width="0.5" stroke-dasharray="4,4" />
+    <line x1="266" y1="150" x2="266" y2="550" stroke="#E53E3E" stroke-width="0.5" stroke-dasharray="4,4" />
+    <line x1="359" y1="150" x2="359" y2="550" stroke="#E53E3E" stroke-width="0.5" stroke-dasharray="4,4" />
+    <line x1="452" y1="150" x2="452" y2="550" stroke="#E53E3E" stroke-width="0.5" stroke-dasharray="4,4" />
+    <line x1="545" y1="150" x2="545" y2="550" stroke="#E53E3E" stroke-width="0.5" stroke-dasharray="4,4" />
+    <line x1="638" y1="150" x2="638" y2="550" stroke="#E53E3E" stroke-width="0.5" stroke-dasharray="4,4" />
+    <line x1="731" y1="150" x2="731" y2="550" stroke="#E53E3E" stroke-width="0.5" stroke-dasharray="4,4" />
+    <line x1="824" y1="150" x2="824" y2="550" stroke="#E53E3E" stroke-width="0.5" stroke-dasharray="4,4" />
+    <line x1="917" y1="150" x2="917" y2="550" stroke="#E53E3E" stroke-width="0.5" stroke-dasharray="4,4" />
+    <line x1="1010" y1="150" x2="1010" y2="550" stroke="#E53E3E" stroke-width="0.5" stroke-dasharray="4,4" />
+    <line x1="1103" y1="150" x2="1103" y2="550" stroke="#E53E3E" stroke-width="0.5" stroke-dasharray="4,4" />
+  </g>
+
+  <g id="grid-labels">
+    <text x="126" y="145" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#E53E3E" text-anchor="middle">1</text>
+    <text x="219" y="145" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#E53E3E" text-anchor="middle">2</text>
+    <text x="312" y="145" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#E53E3E" text-anchor="middle">3</text>
+    <text x="405" y="145" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#E53E3E" text-anchor="middle">4</text>
+    <text x="498" y="145" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#E53E3E" text-anchor="middle">5</text>
+    <text x="591" y="145" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#E53E3E" text-anchor="middle">6</text>
+    <text x="684" y="145" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#E53E3E" text-anchor="middle">7</text>
+    <text x="777" y="145" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#E53E3E" text-anchor="middle">8</text>
+    <text x="870" y="145" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#E53E3E" text-anchor="middle">9</text>
+    <text x="963" y="145" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#E53E3E" text-anchor="middle">10</text>
+    <text x="1056" y="145" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#E53E3E" text-anchor="middle">11</text>
+    <text x="1149" y="145" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#E53E3E" text-anchor="middle">12</text>
+  </g>
+
+  <g id="grid-example">
+    <rect x="80" y="180" width="360" height="120" fill="#1A202C" />
+    <text x="260" y="250" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle">4 列布局</text>
+    
+    <rect x="460" y="180" width="280" height="120" fill="#E53E3E" />
+    <text x="600" y="250" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle">3 列</text>
+    
+    <rect x="760" y="180" width="180" height="120" fill="#4A5568" />
+    <text x="850" y="250" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle">2 列</text>
+  </g>
+
+  <g id="grid-spec">
+    <rect x="80" y="580" width="1120" height="80" fill="#1A202C" />
+    <text x="100" y="620" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#E53E3E">GRID SPECIFICATION</text>
+    <text x="100" y="645" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#A0AEC0">Columns: 12 | Gutter: 20px | Margin: 80px | Baseline: 8px</text>
+  </g>
+
+  <g id="footer">
+    <text x="1200" y="694" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#A0AEC0">04</text>
+    <line x1="80" y1="694" x2="120" y2="694" stroke="#A0AEC0" stroke-width="0.5" />
+  </g>
+</svg>

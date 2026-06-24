@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="sumBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1B2A4A" />
+      <stop offset="100%" stop-color="#0F1A2E" />
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#sumBg)" />
+    <rect x="0" y="0" width="1280" height="4" fill="#C9A96E" />
+    <rect x="0" y="716" width="1280" height="4" fill="#C9A96E" />
+  </g>
+
+  <g id="header" data-anim="true">
+<text x="80" y="60" font-family="Georgia, serif" font-size="12" fill="#C9A96E" letter-spacing="3">SUMMARY</text>
+    <text x="80" y="100" font-family="Georgia, serif" font-size="36" fill="#FFFFFF">总结与建议</text>
+    <line x1="80" y1="115" x2="280" y2="115" stroke="#C9A96E" stroke-width="2" />
+  </g>
+
+  <g id="key-recommendations">
+    <rect x="80" y="150" width="560" height="300" fill="#C9A96E" opacity="0.1" />
+    <text x="100" y="190" font-family="Georgia, serif" font-size="18" fill="#C9A96E">核心建议</text>
+    <line x1="100" y1="200" x2="220" y2="200" stroke="#C9A96E" stroke-width="1" />
+    <text x="100" y="230" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 立即启动数字化转型第一阶段</text>
+    <text x="100" y="260" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 组建跨部门专项团队</text>
+    <text x="100" y="290" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 优先投资数据基础设施</text>
+    <text x="100" y="320" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 建立 AI 应用试点项目</text>
+    <text x="100" y="350" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 制定详细的人才发展计划</text>
+    <text x="100" y="380" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 建立战略合作伙伴关系</text>
+  </g>
+
+  <g id="next-steps" data-anim="true">
+<rect x="660" y="150" width="540" height="300" fill="#C9A96E" opacity="0.05" />
+    <text x="680" y="190" font-family="Georgia, serif" font-size="18" fill="#C9A96E">下一步行动</text>
+    <line x1="680" y1="200" x2="820" y2="200" stroke="#C9A96E" stroke-width="1" />
+    <text x="680" y="230" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">1. 成立项目指导委员会</text>
+    <text x="680" y="260" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">2. 完成详细实施方案</text>
+    <text x="680" y="290" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">3. 启动第一阶段投资</text>
+    <text x="680" y="320" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">4. 招聘核心团队成员</text>
+    <text x="680" y="350" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">5. 建立合作伙伴关系</text>
+    <text x="680" y="380" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">6. 启动数据平台建设</text>
+  </g>
+
+  <g id="contact">
+    <rect x="80" y="480" width="1120" height="100" fill="#C9A96E" opacity="0.15" />
+    <text x="640" y="530" font-family="Georgia, serif" font-size="24" fill="#FFFFFF" text-anchor="middle">开启战略转型之旅</text>
+    <text x="640" y="560" font-family="Arial, sans-serif" font-size="16" fill="#A0B4D0" text-anchor="middle">strategy@consulting.com | consulting.com</text>
+  </g>
+
+  <g id="footer">
+    <text x="1200" y="694" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#6B8BB8">08</text>
+    <line x1="80" y1="694" x2="120" y2="694" stroke="#6B8BB8" stroke-width="0.5" />
+  </g>
+</svg>

@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="archBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1A365D" />
+      <stop offset="100%" stop-color="#0F1F3D" />
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#archBg)" />
+    <line x1="0" y1="180" x2="1280" y2="180" stroke="#2A4A7F" stroke-width="0.3" />
+    <line x1="0" y1="360" x2="1280" y2="360" stroke="#2A4A7F" stroke-width="0.3" />
+    <line x1="0" y1="540" x2="1280" y2="540" stroke="#2A4A7F" stroke-width="0.3" />
+  </g>
+
+  <g id="header" data-anim="true">
+<text x="80" y="60" font-family="Consolas, monospace" font-size="12" font-weight="700" fill="#3182CE" letter-spacing="3">ARCHITECTURE</text>
+    <text x="80" y="100" font-family="Georgia, serif" font-size="36" font-weight="700" fill="#FFFFFF">系统架构设计</text>
+    <line x1="80" y1="115" x2="350" y2="115" stroke="#3182CE" stroke-width="2" />
+  </g>
+
+  <g id="chart-arch-diagram" data-anim="true">
+<!-- API Gateway -->
+    <rect x="440" y="160" width="400" height="60" fill="#3182CE" rx="8" />
+    <text x="640" y="195" font-family="Consolas, monospace" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle">API Gateway</text>
+
+    <!-- Services -->
+    <rect x="100" y="280" width="200" height="60" fill="#2A4A7F" rx="8" />
+    <text x="200" y="315" font-family="Consolas, monospace" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">User Service</text>
+
+    <rect x="360" y="280" width="200" height="60" fill="#2A4A7F" rx="8" />
+    <text x="460" y="315" font-family="Consolas, monospace" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">Order Service</text>
+
+    <rect x="620" y="280" width="200" height="60" fill="#2A4A7F" rx="8" />
+    <text x="720" y="315" font-family="Consolas, monospace" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">Product Service</text>
+
+    <rect x="880" y="280" width="200" height="60" fill="#2A4A7F" rx="8" />
+    <text x="980" y="315" font-family="Consolas, monospace" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">Payment Service</text>
+
+    <!-- Arrows -->
+    <line x1="540" y1="220" x2="200" y2="280" stroke="#3182CE" stroke-width="2" />
+    <line x1="600" y1="220" x2="460" y2="280" stroke="#3182CE" stroke-width="2" />
+    <line x1="680" y1="220" x2="720" y2="280" stroke="#3182CE" stroke-width="2" />
+    <line x1="740" y1="220" x2="980" y2="280" stroke="#3182CE" stroke-width="2" />
+
+    <!-- Database Layer -->
+    <rect x="100" y="400" width="200" height="60" fill="#4A6A9F" rx="8" />
+    <text x="200" y="435" font-family="Consolas, monospace" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">PostgreSQL</text>
+
+    <rect x="360" y="400" width="200" height="60" fill="#4A6A9F" rx="8" />
+    <text x="460" y="435" font-family="Consolas, monospace" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">MongoDB</text>
+
+    <rect x="620" y="400" width="200" height="60" fill="#4A6A9F" rx="8" />
+    <text x="720" y="435" font-family="Consolas, monospace" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">Redis</text>
+
+    <rect x="880" y="400" width="200" height="60" fill="#4A6A9F" rx="8" />
+    <text x="980" y="435" font-family="Consolas, monospace" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">Kafka</text>
+
+    <!-- Arrows to DB -->
+    <line x1="200" y1="340" x2="200" y2="400" stroke="#3182CE" stroke-width="1.5" />
+    <line x1="460" y1="340" x2="460" y2="400" stroke="#3182CE" stroke-width="1.5" />
+    <line x1="720" y1="340" x2="720" y2="400" stroke="#3182CE" stroke-width="1.5" />
+    <line x1="980" y1="340" x2="980" y2="400" stroke="#3182CE" stroke-width="1.5" />
+  </g>
+
+  <g id="legend">
+    <rect x="80" y="520" width="1120" height="120" fill="#0F1F3D" rx="8" stroke="#2A4A7F" stroke-width="1" />
+    <text x="100" y="560" font-family="Consolas, monospace" font-size="14" font-weight="700" fill="#3182CE">KEY COMPONENTS</text>
+    <text x="100" y="590" font-family="Arial, sans-serif" font-size="13" fill="#A0C4E8">• API Gateway: 请求路由、负载均衡、认证授权</text>
+    <text x="100" y="615" font-family="Arial, sans-serif" font-size="13" fill="#A0C4E8">• Microservices: 业务逻辑处理、数据存储</text>
+    <text x="100" y="640" font-family="Arial, sans-serif" font-size="13" fill="#A0C4E8">• Data Layer: 持久化存储、缓存、消息队列</text>
+  </g>
+
+  <g id="footer">
+    <text x="1200" y="694" text-anchor="end" font-family="Consolas, monospace" font-size="11" fill="#5A7AA0">04</text>
+    <line x1="80" y1="694" x2="120" y2="694" stroke="#5A7AA0" stroke-width="0.5" />
+  </g>
+</svg>

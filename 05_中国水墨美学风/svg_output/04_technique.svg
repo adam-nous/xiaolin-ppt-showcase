@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="techBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F5F0E8" />
+      <stop offset="100%" stop-color="#E8DFD0" />
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#techBg)" />
+    <rect x="0" y="0" width="8" height="720" fill="#2C2C2C" />
+    <rect x="1272" y="0" width="8" height="720" fill="#2C2C2C" />
+    <rect x="0" y="0" width="1280" height="8" fill="#2C2C2C" />
+    <rect x="0" y="712" width="1280" height="8" fill="#2C2C2C" />
+  </g>
+
+  <g id="header" data-anim="true">
+<text x="80" y="60" font-family="SimSun, serif" font-size="12" fill="#8B4513" letter-spacing="3">贰</text>
+    <text x="80" y="100" font-family="SimSun, serif" font-size="36" fill="#2C2C2C">笔墨技法</text>
+    <line x1="80" y1="115" x2="250" y2="115" stroke="#8B4513" stroke-width="1" />
+  </g>
+
+  <g id="techniques">
+    <g id="brush">
+      <rect x="80" y="150" width="560" height="200" fill="#FFFFFF" opacity="0.5" />
+      <text x="100" y="190" font-family="SimSun, serif" font-size="24" fill="#2C2C2C">运笔之法</text>
+      <line x1="100" y1="200" x2="250" y2="200" stroke="#8B4513" stroke-width="1" />
+      <text x="100" y="230" font-family="Microsoft YaHei, sans-serif" font-size="14" fill="#4A4A4A">• 中锋用笔：线条圆润饱满</text>
+      <text x="100" y="255" font-family="Microsoft YaHei, sans-serif" font-size="14" fill="#4A4A4A">• 侧锋用笔：变化丰富多姿</text>
+      <text x="100" y="280" font-family="Microsoft YaHei, sans-serif" font-size="14" fill="#4A4A4A">• 逆锋用笔：苍劲有力</text>
+      <text x="100" y="305" font-family="Microsoft YaHei, sans-serif" font-size="14" fill="#4A4A4A">• 拖锋用笔：流畅自然</text>
+    </g>
+
+    <g id="ink">
+      <rect x="660" y="150" width="540" height="200" fill="#FFFFFF" opacity="0.5" />
+      <text x="680" y="190" font-family="SimSun, serif" font-size="24" fill="#2C2C2C">用墨之道</text>
+      <line x1="680" y1="200" x2="830" y2="200" stroke="#8B4513" stroke-width="1" />
+      <text x="680" y="230" font-family="Microsoft YaHei, sans-serif" font-size="14" fill="#4A4A4A">• 焦墨：浓重深沉</text>
+      <text x="680" y="255" font-family="Microsoft YaHei, sans-serif" font-size="14" fill="#4A4A4A">• 浓墨：厚重饱满</text>
+      <text x="680" y="280" font-family="Microsoft YaHei, sans-serif" font-size="14" fill="#4A4A4A">• 重墨：沉稳有力</text>
+      <text x="680" y="305" font-family="Microsoft YaHei, sans-serif" font-size="14" fill="#4A4A4A">• 淡墨：清雅空灵</text>
+      <text x="680" y="330" font-family="Microsoft YaHei, sans-serif" font-size="14" fill="#4A4A4A">• 清墨：淡远悠长</text>
+    </g>
+  </g>
+
+  <g id="ink-demo">
+    <rect x="80" y="380" width="1120" height="200" fill="#2C2C2C" opacity="0.03" />
+    <text x="640" y="420" font-family="SimSun, serif" font-size="18" fill="#2C2C2C" text-anchor="middle">墨分五色</text>
+    <rect x="200" y="450" width="100" height="80" fill="#2C2C2C" opacity="0.9" />
+    <rect x="350" y="450" width="100" height="80" fill="#2C2C2C" opacity="0.7" />
+    <rect x="500" y="450" width="100" height="80" fill="#2C2C2C" opacity="0.5" />
+    <rect x="650" y="450" width="100" height="80" fill="#2C2C2C" opacity="0.3" />
+    <rect x="800" y="450" width="100" height="80" fill="#2C2C2C" opacity="0.1" />
+    <text x="250" y="550" font-family="Microsoft YaHei, sans-serif" font-size="12" fill="#6B6B6B" text-anchor="middle">焦</text>
+    <text x="400" y="550" font-family="Microsoft YaHei, sans-serif" font-size="12" fill="#6B6B6B" text-anchor="middle">浓</text>
+    <text x="550" y="550" font-family="Microsoft YaHei, sans-serif" font-size="12" fill="#6B6B6B" text-anchor="middle">重</text>
+    <text x="700" y="550" font-family="Microsoft YaHei, sans-serif" font-size="12" fill="#6B6B6B" text-anchor="middle">淡</text>
+    <text x="850" y="550" font-family="Microsoft YaHei, sans-serif" font-size="12" fill="#6B6B6B" text-anchor="middle">清</text>
+  </g>
+
+  <g id="footer">
+    <text x="1200" y="694" text-anchor="end" font-family="SimSun, serif" font-size="11" fill="#8B8B8B">04</text>
+    <line x1="80" y1="694" x2="120" y2="694" stroke="#8B8B8B" stroke-width="0.5" />
+  </g>
+</svg>

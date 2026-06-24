@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="swissBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FAFAFA" />
+      <stop offset="100%" stop-color="#F5F5F5" />
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#swissBg)" />
+    <line x1="80" y1="0" x2="80" y2="720" stroke="#E0E0E0" stroke-width="0.5" />
+    <line x1="400" y1="0" x2="400" y2="720" stroke="#E0E0E0" stroke-width="0.5" />
+    <line x1="720" y1="0" x2="720" y2="720" stroke="#E0E0E0" stroke-width="0.5" />
+    <line x1="1040" y1="0" x2="1040" y2="720" stroke="#E0E0E0" stroke-width="0.5" />
+  </g>
+
+  <g id="title-marks" data-anim="true">
+<rect x="80" y="120" width="80" height="4" fill="#E53E3E" />
+    <text x="80" y="160" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#E53E3E" letter-spacing="2.5">SWISS · TYPOGRAPHIC</text>
+  </g>
+
+  <g id="title-main" data-anim="true">
+<text x="80" y="320" font-family="Helvetica, Arial, sans-serif" font-size="72" font-weight="700" fill="#1A202C">Swiss</text>
+    <text x="80" y="400" font-family="Helvetica, Arial, sans-serif" font-size="72" font-weight="700" fill="#1A202C">Design</text>
+    <text x="80" y="480" font-family="Helvetica, Arial, sans-serif" font-size="72" font-weight="700" fill="#E53E3E">System</text>
+  </g>
+
+  <g id="card-subtitle" data-anim="true">
+<line x1="80" y1="520" x2="180" y2="520" stroke="#1A202C" stroke-width="1.5" />
+    <text x="80" y="550" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#4A5568">国际主义风格设计系统</text>
+    <text x="80" y="580" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#718096">2026 年度设计规范</text>
+  </g>
+
+  <g id="chart-cover-grid" data-anim="true">
+<rect x="800" y="120" width="400" height="400" fill="none" stroke="#E53E3E" stroke-width="1" />
+    <line x1="800" y1="220" x2="1200" y2="220" stroke="#E53E3E" stroke-width="0.5" />
+    <line x1="800" y1="320" x2="1200" y2="320" stroke="#E53E3E" stroke-width="0.5" />
+    <line x1="800" y1="420" x2="1200" y2="420" stroke="#E53E3E" stroke-width="0.5" />
+    <line x1="900" y1="120" x2="900" y2="520" stroke="#E53E3E" stroke-width="0.5" />
+    <line x1="1000" y1="120" x2="1000" y2="520" stroke="#E53E3E" stroke-width="0.5" />
+    <line x1="1100" y1="120" x2="1100" y2="520" stroke="#E53E3E" stroke-width="0.5" />
+  </g>
+
+  <g id="footer">
+    <text x="1200" y="694" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#A0AEC0">01</text>
+    <line x1="80" y1="694" x2="120" y2="694" stroke="#A0AEC0" stroke-width="0.5" />
+  </g>
+</svg>

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="tocBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F7FAFC" />
+      <stop offset="100%" stop-color="#EDF2F7" />
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#tocBg)" />
+    <rect x="0" y="0" width="6" height="720" fill="#1A365D" />
+  </g>
+
+  <g id="title-toc-header" data-anim="true">
+<text x="80" y="80" font-family="Consolas, monospace" font-size="12" font-weight="700" fill="#3182CE" letter-spacing="3">TABLE OF CONTENTS</text>
+    <line x1="80" y1="90" x2="280" y2="90" stroke="#3182CE" stroke-width="1" />
+  </g>
+
+  <g id="card-toc-items" data-anim="true">
+<g id="toc-item-1" data-anim="true">
+<rect x="80" y="140" width="48" height="48" fill="#1A365D" rx="4" />
+      <text x="104" y="170" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="middle">01</text>
+      <text x="148" y="160" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#1A365D">背景与目标</text>
+      <text x="148" y="180" font-family="Arial, sans-serif" font-size="13" fill="#718096">项目背景、核心目标与关键指标</text>
+    </g>
+
+    <g id="toc-item-2" data-anim="true">
+<rect x="80" y="210" width="48" height="48" fill="#2A4A7F" rx="4" />
+      <text x="104" y="240" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="middle">02</text>
+      <text x="148" y="230" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#1A365D">系统架构</text>
+      <text x="148" y="250" font-family="Arial, sans-serif" font-size="13" fill="#718096">整体架构设计与组件关系</text>
+    </g>
+
+    <g id="toc-item-3" data-anim="true">
+<rect x="80" y="280" width="48" height="48" fill="#3A5A8F" rx="4" />
+      <text x="104" y="310" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="middle">03</text>
+      <text x="148" y="300" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#1A365D">核心模块</text>
+      <text x="148" y="320" font-family="Arial, sans-serif" font-size="13" fill="#718096">关键模块设计与实现细节</text>
+    </g>
+
+    <g id="toc-item-4" data-anim="true">
+<rect x="80" y="350" width="48" height="48" fill="#4A6A9F" rx="4" />
+      <text x="104" y="380" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="middle">04</text>
+      <text x="148" y="370" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#1A365D">性能指标</text>
+      <text x="148" y="390" font-family="Arial, sans-serif" font-size="13" fill="#718096">关键性能数据与优化策略</text>
+    </g>
+
+    <g id="toc-item-5" data-anim="true">
+<rect x="80" y="420" width="48" height="48" fill="#5A7AAF" rx="4" />
+      <text x="104" y="450" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="middle">05</text>
+      <text x="148" y="440" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#1A365D">应用场景</text>
+      <text x="148" y="460" font-family="Arial, sans-serif" font-size="13" fill="#718096">典型应用场景与案例分析</text>
+    </g>
+
+    <g id="toc-item-6" data-anim="true">
+<rect x="80" y="490" width="48" height="48" fill="#6A8ABF" rx="4" />
+      <text x="104" y="520" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="middle">06</text>
+      <text x="148" y="510" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#1A365D">技术演进</text>
+      <text x="148" y="530" font-family="Arial, sans-serif" font-size="13" fill="#718096">技术路线与未来规划</text>
+    </g>
+  </g>
+
+  <g id="footer">
+    <text x="1200" y="694" text-anchor="end" font-family="Consolas, monospace" font-size="11" fill="#A0AEC0">02</text>
+    <line x1="80" y1="694" x2="120" y2="694" stroke="#A0AEC0" stroke-width="0.5" />
+  </g>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0F1A2E" />
+      <stop offset="100%" stop-color="#1B2A4A" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#D4AF37" />
+      <stop offset="100%" stop-color="#C9A96E" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#bg)" />
+    <rect x="0" y="0" width="1219.2" height="4" fill="url(#gold)" />
+    <rect x="0" y="681.8" width="1219.2" height="4" fill="url(#gold)" />
+  </g>
+
+  <g id="title-header">
+    <text x="76" y="57" font-family="Georgia, serif" font-size="12" fill="#C9A96E" letter-spacing="3">FINANCIAL PROJECTION</text>
+    <text x="76" y="97" font-family="Georgia, serif" font-size="36" font-weight="700" fill="#FFFFFF">财务预测</text>
+    <line x1="76" y1="112" x2="276" y2="112" stroke="#C9A96E" stroke-width="2" />
+  </g>
+
+  <g id="card-left">
+    <rect x="76" y="140" width="520" height="400" rx="16" fill="rgba(201,169,110,0.05)" stroke="#C9A96E" stroke-width="1" opacity="0.3" filter="url(#shadow)" />
+    <text x="96" y="180" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#C9A96E">收入预测</text>
+    <line x1="96" y1="190" x2="216" y2="190" stroke="#C9A96E" stroke-width="1" />
+    <text x="96" y="220" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 第一年: $30M</text>
+    <text x="96" y="250" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 第二年: $50M</text>
+    <text x="96" y="280" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 第三年: $70M</text>
+  </g>
+
+  <g id="card-right">
+    <rect x="620" y="140" width="520" height="400" rx="16" fill="rgba(201,169,110,0.03)" stroke="#C9A96E" stroke-width="1" opacity="0.2" filter="url(#shadow)" />
+    <text x="640" y="180" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#C9A96E">投资回报</text>
+    <line x1="640" y1="190" x2="760" y2="190" stroke="#C9A96E" stroke-width="1" />
+    <text x="640" y="220" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• ROI: 350%</text>
+    <text x="640" y="250" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 回收期: 18个月</text>
+    <text x="640" y="280" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 净现值: $120M</text>
+  </g>
+
+  <g id="footer">
+    <text x="1143" y="658" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#6B8BB8">07 / 08</text>
+    <line x1="76" y1="658" x2="116" y2="658" stroke="#6B8BB8" stroke-width="0.5" />
+  </g>
+</svg>

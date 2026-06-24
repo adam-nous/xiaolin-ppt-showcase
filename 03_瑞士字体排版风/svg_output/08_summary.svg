@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="sumBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FAFAFA" />
+      <stop offset="100%" stop-color="#F5F5F5" />
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#sumBg)" />
+    <line x1="80" y1="0" x2="80" y2="720" stroke="#E0E0E0" stroke-width="0.5" />
+    <line x1="400" y1="0" x2="400" y2="720" stroke="#E0E0E0" stroke-width="0.5" />
+    <line x1="720" y1="0" x2="720" y2="720" stroke="#E0E0E0" stroke-width="0.5" />
+    <line x1="1040" y1="0" x2="1040" y2="720" stroke="#E0E0E0" stroke-width="0.5" />
+  </g>
+
+  <g id="header" data-anim="true">
+<text x="80" y="60" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#E53E3E" letter-spacing="3">SUMMARY</text>
+    <text x="80" y="100" font-family="Helvetica, Arial, sans-serif" font-size="36" font-weight="700" fill="#1A202C">总结与规范</text>
+    <line x1="80" y1="115" x2="300" y2="115" stroke="#E53E3E" stroke-width="2" />
+  </g>
+
+  <g id="card-key-points" data-anim="true">
+<rect x="80" y="150" width="560" height="300" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="1" />
+    <text x="100" y="190" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#1A202C">设计规范要点</text>
+    <line x1="100" y1="200" x2="300" y2="200" stroke="#E53E3E" stroke-width="2" />
+    <text x="100" y="230" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#4A5568">• 严格遵循 12 列网格系统</text>
+    <text x="100" y="260" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#4A5568">• 使用无衬线字体（Helvetica/Arial）</text>
+    <text x="100" y="290" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#4A5568">• 黑白为主，红色强调</text>
+    <text x="100" y="320" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#4A5568">• 通过字号和字重创造层次</text>
+    <text x="100" y="350" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#4A5568">• 保持简洁、清晰、可读</text>
+    <text x="100" y="380" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#4A5568">• 组件风格统一，无圆角</text>
+  </g>
+
+  <g id="spec-table">
+    <rect x="660" y="150" width="540" height="300" fill="#1A202C" />
+    <text x="680" y="190" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#E53E3E">SPECIFICATION</text>
+    <line x1="680" y1="200" x2="850" y2="200" stroke="#E53E3E" stroke-width="1" />
+    <text x="680" y="230" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#A0AEC0">Grid: 12 columns</text>
+    <text x="680" y="260" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#A0AEC0">Gutter: 20px</text>
+    <text x="680" y="290" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#A0AEC0">Margin: 80px</text>
+    <text x="680" y="320" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#A0AEC0">Baseline: 8px</text>
+    <text x="680" y="350" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#A0AEC0">Font: Helvetica, Arial</text>
+    <text x="680" y="380" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#A0AEC0">Border Radius: 0px</text>
+    <text x="680" y="410" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#A0AEC0">Primary: #1A202C</text>
+    <text x="680" y="440" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#A0AEC0">Accent: #E53E3E</text>
+  </g>
+
+  <g id="cta">
+    <rect x="80" y="480" width="1120" height="80" fill="#E53E3E" />
+    <text x="640" y="530" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="middle">开始使用瑞士设计系统</text>
+  </g>
+
+  <g id="contact">
+    <text x="640" y="600" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#718096" text-anchor="middle">swiss-design-system.com | github.com/swiss-design</text>
+  </g>
+
+  <g id="footer">
+    <text x="1200" y="694" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#A0AEC0">08</text>
+    <line x1="80" y1="694" x2="120" y2="694" stroke="#A0AEC0" stroke-width="0.5" />
+  </g>
+</svg>

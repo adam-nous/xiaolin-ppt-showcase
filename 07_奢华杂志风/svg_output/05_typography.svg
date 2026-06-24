@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="typoBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1A1A2E" />
+      <stop offset="100%" stop-color="#0F0F1A" />
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#typoBg)" />
+    <rect x="0" y="0" width="1280" height="3" fill="#D4AF37" />
+    <rect x="0" y="717" width="1280" height="3" fill="#D4AF37" />
+    <rect x="0" y="0" width="3" height="720" fill="#D4AF37" />
+    <rect x="1277" y="0" width="3" height="720" fill="#D4AF37" />
+  </g>
+
+  <g id="header" data-anim="true">
+<text x="80" y="60" font-family="Georgia, serif" font-size="12" fill="#D4AF37" letter-spacing="4">03</text>
+    <text x="80" y="100" font-family="Georgia, serif" font-size="36" fill="#FFFFFF">排版艺术</text>
+    <line x1="80" y1="115" x2="250" y2="115" stroke="#D4AF37" stroke-width="2" />
+  </g>
+
+  <g id="card-type-hierarchy" data-anim="true">
+<g id="level-1">
+      <text x="80" y="180" font-family="Georgia, serif" font-size="48" fill="#FFFFFF">品牌标题</text>
+      <text x="80" y="200" font-family="Georgia, serif" font-size="12" fill="#8A7A6A">48px · Georgia · Bold · 品牌名称、主标题</text>
+    </g>
+
+    <g id="level-2">
+      <text x="80" y="260" font-family="Georgia, serif" font-size="36" fill="#D4AF37">章节标题</text>
+      <text x="80" y="280" font-family="Georgia, serif" font-size="12" fill="#8A7A6A">36px · Georgia · Bold · 章节、小节标题</text>
+    </g>
+
+    <g id="level-3">
+      <text x="80" y="340" font-family="Georgia, serif" font-size="24" fill="#FFFFFF">段落标题</text>
+      <text x="80" y="360" font-family="Georgia, serif" font-size="12" fill="#8A7A6A">24px · Georgia · Regular · 段落、内容块标题</text>
+    </g>
+
+    <g id="level-4">
+      <text x="80" y="420" font-family="Georgia, serif" font-size="18" fill="#B8A080">正文内容使用优雅的衬线字体，保持良好的可读性与视觉层次。</text>
+      <text x="80" y="440" font-family="Georgia, serif" font-size="12" fill="#8A7A6A">18px · Georgia · Regular · 正文、说明文字</text>
+    </g>
+  </g>
+
+  <g id="card-typography-rules" data-anim="true">
+<rect x="80" y="480" width="1120" height="150" fill="#D4AF37" opacity="0.03" />
+    <text x="100" y="520" font-family="Georgia, serif" font-size="18" fill="#D4AF37">排版规则</text>
+    <line x1="100" y1="530" x2="220" y2="530" stroke="#D4AF37" stroke-width="1" />
+    <text x="100" y="560" font-family="Georgia, serif" font-size="14" fill="#B8A080">• 使用衬线字体（Georgia）作为主要标题字体</text>
+    <text x="100" y="590" font-family="Georgia, serif" font-size="14" fill="#B8A080">• 保持足够的行间距（1.6-1.8）确保可读性</text>
+    <text x="100" y="620" font-family="Georgia, serif" font-size="14" fill="#B8A080">• 使用金色（#D4AF37）作为强调色，突出关键信息</text>
+  </g>
+
+  <g id="footer">
+    <text x="1200" y="694" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#8A7A6A">05</text>
+    <line x1="80" y1="694" x2="120" y2="694" stroke="#8A7A6A" stroke-width="0.5" />
+  </g>
+</svg>

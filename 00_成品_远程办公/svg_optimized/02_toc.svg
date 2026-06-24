@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0F1A2E" />
+      <stop offset="100%" stop-color="#1B2A4A" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#D4AF37" />
+      <stop offset="100%" stop-color="#C9A96E" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#bg)" />
+    <rect x="0" y="0" width="1219.2" height="4" fill="url(#gold)" />
+    <rect x="0" y="681.8" width="1219.2" height="4" fill="url(#gold)" />
+  </g>
+
+  <g id="title-header">
+    <text x="76" y="57" font-family="Georgia, serif" font-size="12" fill="#C9A96E" letter-spacing="3">TABLE OF CONTENTS</text>
+    <line x1="76" y1="67" x2="276" y2="67" stroke="#C9A96E" stroke-width="1" />
+  </g>
+
+  <g id="card-items">
+    <g id="toc-item-1">
+      <rect x="76" y="110" width="48" height="48" rx="12" fill="#C9A96E" />
+      <text x="100" y="140" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#0F1A2E" text-anchor="middle">01</text>
+      <text x="144" y="130" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#FFFFFF">执行摘要</text>
+      <text x="144" y="155" font-family="Arial, sans-serif" font-size="13" fill="#6B8BB8">核心发现、关键建议、预期成果</text>
+      <line x1="76" y1="175" x2="696" y2="175" stroke="#C9A96E" stroke-width="0.5" opacity="0.3" />
+    </g>
+
+    <g id="toc-item-2">
+      <rect x="76" y="200" width="48" height="48" rx="12" fill="#B8860B" />
+      <text x="100" y="230" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="middle">02</text>
+      <text x="144" y="220" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#FFFFFF">市场分析</text>
+      <text x="144" y="245" font-family="Arial, sans-serif" font-size="13" fill="#6B8BB8">行业趋势、竞争格局、市场机会</text>
+      <line x1="76" y1="265" x2="696" y2="265" stroke="#C9A96E" stroke-width="0.5" opacity="0.3" />
+    </g>
+
+    <g id="toc-item-3">
+      <rect x="76" y="290" width="48" height="48" rx="12" fill="#A0785A" />
+      <text x="100" y="320" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="middle">03</text>
+      <text x="144" y="310" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#FFFFFF">战略框架</text>
+      <text x="144" y="335" font-family="Arial, sans-serif" font-size="13" fill="#6B8BB8">战略方向、核心能力、资源配置</text>
+      <line x1="76" y1="355" x2="696" y2="355" stroke="#C9A96E" stroke-width="0.5" opacity="0.3" />
+    </g>
+
+    <g id="toc-item-4">
+      <rect x="76" y="380" width="48" height="48" rx="12" fill="#8B6914" />
+      <text x="100" y="410" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="middle">04</text>
+      <text x="144" y="400" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#FFFFFF">实施路径</text>
+      <text x="144" y="425" font-family="Arial, sans-serif" font-size="13" fill="#6B8BB8">阶段规划、里程碑、资源配置</text>
+      <line x1="76" y1="445" x2="696" y2="445" stroke="#C9A96E" stroke-width="0.5" opacity="0.3" />
+    </g>
+
+    <g id="toc-item-5">
+      <rect x="76" y="470" width="48" height="48" rx="12" fill="#705C1A" />
+      <text x="100" y="500" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="middle">05</text>
+      <text x="144" y="490" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#FFFFFF">财务预测</text>
+      <text x="144" y="515" font-family="Arial, sans-serif" font-size="13" fill="#6B8BB8">投资回报、风险评估、敏感性分析</text>
+    </g>
+  </g>
+
+  <g id="chart-grid">
+    <rect x="780" y="110" width="360" height="420" rx="16" fill="rgba(201,169,110,0.05)" stroke="#C9A96E" stroke-width="1" opacity="0.3" />
+    <text x="960" y="270" font-family="Georgia, serif" font-size="120" fill="#C9A96E" opacity="0.1" text-anchor="middle">02</text>
+    <text x="960" y="340" font-family="Arial, sans-serif" font-size="16" fill="#A0B4D0" text-anchor="middle">5 SECTIONS</text>
+    <line x1="830" y1="360" x2="1090" y2="360" stroke="#C9A96E" stroke-width="0.5" opacity="0.3" />
+    <text x="960" y="390" font-family="Arial, sans-serif" font-size="14" fill="#6B8BB8" text-anchor="middle">8 PAGES</text>
+  </g>
+
+  <g id="footer">
+    <text x="1143" y="658" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#6B8BB8">02 / 08</text>
+    <line x1="76" y1="658" x2="116" y2="658" stroke="#6B8BB8" stroke-width="0.5" />
+  </g>
+</svg>

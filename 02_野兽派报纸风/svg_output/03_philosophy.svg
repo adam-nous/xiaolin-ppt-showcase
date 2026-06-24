@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="#1A1A1A" />
+    <rect x="0" y="0" width="1280" height="8" fill="#FF0000" />
+    <rect x="0" y="712" width="1280" height="8" fill="#FF0000" />
+  </g>
+
+  <g id="header" data-anim="true">
+<rect x="40" y="40" width="1200" height="60" fill="#FF0000" />
+    <text x="640" y="80" font-family="Impact, Arial Black, sans-serif" font-size="28" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="8">DESIGN PHILOSOPHY</text>
+  </g>
+
+  <g id="main-content" data-anim="true">
+<text x="80" y="180" font-family="Impact, Arial Black, sans-serif" font-size="72" font-weight="900" fill="#FFFFFF">BREAK</text>
+    <text x="80" y="270" font-family="Impact, Arial Black, sans-serif" font-size="72" font-weight="900" fill="#FF0000">THE</text>
+    <text x="80" y="360" font-family="Impact, Arial Black, sans-serif" font-size="72" font-weight="900" fill="#FFFFFF">RULES</text>
+  </g>
+
+  <g id="quote-box" data-anim="true">
+<rect x="80" y="400" width="500" height="160" fill="#333333" />
+    <rect x="80" y="400" width="8" height="160" fill="#FF0000" />
+    <text x="110" y="440" font-family="Arial, sans-serif" font-size="18" font-style="italic" fill="#CCCCCC">"设计不是装饰，</text>
+    <text x="110" y="470" font-family="Arial, sans-serif" font-size="18" font-style="italic" fill="#CCCCCC">而是传达思想的工具。"</text>
+    <text x="110" y="520" font-family="Arial, sans-serif" font-size="14" fill="#888888">— 野兽派宣言</text>
+  </g>
+
+  <g id="card-principles" data-anim="true">
+<rect x="640" y="140" width="560" height="420" fill="#333333" />
+    <text x="660" y="180" font-family="Impact, Arial Black, sans-serif" font-size="24" font-weight="900" fill="#FF0000">CORE PRINCIPLES</text>
+    <line x1="660" y1="190" x2="850" y2="190" stroke="#FF0000" stroke-width="2" />
+    <text x="660" y="230" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF">• 粗犷胜于精致</text>
+    <text x="660" y="260" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF">• 原始胜于修饰</text>
+    <text x="660" y="290" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF">• 冲击胜于和谐</text>
+    <text x="660" y="320" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF">• 功能胜于形式</text>
+    <text x="660" y="350" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF">• 真实胜于美化</text>
+    <text x="660" y="400" font-family="Arial, sans-serif" font-size="14" fill="#888888">这些原则构成了野兽派设计的核心，</text>
+    <text x="660" y="430" font-family="Arial, sans-serif" font-size="14" fill="#888888">指导我们创造更具冲击力的视觉作品。</text>
+  </g>
+
+  <g id="footer-bar">
+    <rect x="40" y="640" width="1200" height="40" fill="#333333" />
+    <text x="640" y="665" font-family="Arial, sans-serif" font-size="14" fill="#CCCCCC" text-anchor="middle">BRUTALIST NEWSPAPER · 2026</text>
+  </g>
+</svg>

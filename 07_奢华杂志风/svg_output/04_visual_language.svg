@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="visBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1A1A2E" />
+      <stop offset="100%" stop-color="#0F0F1A" />
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#visBg)" />
+    <rect x="0" y="0" width="1280" height="3" fill="#D4AF37" />
+    <rect x="0" y="717" width="1280" height="3" fill="#D4AF37" />
+    <rect x="0" y="0" width="3" height="720" fill="#D4AF37" />
+    <rect x="1277" y="0" width="3" height="720" fill="#D4AF37" />
+  </g>
+
+  <g id="header" data-anim="true">
+<text x="80" y="60" font-family="Georgia, serif" font-size="12" fill="#D4AF37" letter-spacing="4">02</text>
+    <text x="80" y="100" font-family="Georgia, serif" font-size="36" fill="#FFFFFF">视觉语言</text>
+    <line x1="80" y1="115" x2="250" y2="115" stroke="#D4AF37" stroke-width="2" />
+  </g>
+
+  <g id="chart-color-palette" data-anim="true">
+<rect x="80" y="150" width="200" height="150" fill="#1A1A2E" stroke="#D4AF37" stroke-width="1" />
+    <text x="180" y="200" font-family="Georgia, serif" font-size="14" fill="#D4AF37" text-anchor="middle">深邃黑</text>
+    <text x="180" y="230" font-family="Georgia, serif" font-size="12" fill="#B8A080" text-anchor="middle">#1A1A2E</text>
+    
+    <rect x="300" y="150" width="200" height="150" fill="#D4AF37" />
+    <text x="400" y="200" font-family="Georgia, serif" font-size="14" fill="#1A1A2E" text-anchor="middle">奢华金</text>
+    <text x="400" y="230" font-family="Georgia, serif" font-size="12" fill="#1A1A2E" text-anchor="middle">#D4AF37</text>
+    
+    <rect x="520" y="150" width="200" height="150" fill="#FFFFFF" />
+    <text x="620" y="200" font-family="Georgia, serif" font-size="14" fill="#1A1A2E" text-anchor="middle">纯净白</text>
+    <text x="620" y="230" font-family="Georgia, serif" font-size="12" fill="#1A1A2E" text-anchor="middle">#FFFFFF</text>
+    
+    <rect x="740" y="150" width="200" height="150" fill="#2A2A3E" />
+    <text x="840" y="200" font-family="Georgia, serif" font-size="14" fill="#D4AF37" text-anchor="middle">深灰</text>
+    <text x="840" y="230" font-family="Georgia, serif" font-size="12" fill="#B8A080" text-anchor="middle">#2A2A3E</text>
+  </g>
+
+  <g id="card-typography" data-anim="true">
+<rect x="80" y="330" width="860" height="200" fill="#D4AF37" opacity="0.03" />
+    <text x="100" y="370" font-family="Georgia, serif" font-size="18" fill="#D4AF37">字体选择</text>
+    <line x1="100" y1="380" x2="220" y2="380" stroke="#D4AF37" stroke-width="1" />
+    <text x="100" y="410" font-family="Georgia, serif" font-size="36" fill="#FFFFFF">Georgia</text>
+    <text x="100" y="440" font-family="Georgia, serif" font-size="14" fill="#B8A080">经典衬线字体，传递优雅与权威</text>
+    <text x="100" y="470" font-family="Georgia, serif" font-size="14" fill="#B8A080">适用于标题、品牌名称、重要信息</text>
+    <text x="100" y="500" font-family="Georgia, serif" font-size="14" fill="#B8A080">搭配使用：Arial（正文）+ Georgia（标题）</text>
+  </g>
+
+  <g id="hero-image-style" data-anim="true">
+<rect x="980" y="150" width="220" height="380" fill="#D4AF37" opacity="0.05" />
+    <text x="1090" y="190" font-family="Georgia, serif" font-size="14" fill="#D4AF37" text-anchor="middle">图像风格</text>
+    <rect x="1010" y="210" width="160" height="120" fill="#2A2A3E" />
+    <text x="1090" y="270" font-family="Georgia, serif" font-size="12" fill="#B8A080" text-anchor="middle">高端摄影</text>
+    <text x="1090" y="300" font-family="Georgia, serif" font-size="12" fill="#B8A080" text-anchor="middle">质感光影</text>
+    <text x="1090" y="350" font-family="Georgia, serif" font-size="12" fill="#B8A080" text-anchor="middle">• 黑白为主</text>
+    <text x="1090" y="380" font-family="Georgia, serif" font-size="12" fill="#B8A080" text-anchor="middle">• 金色点缀</text>
+    <text x="1090" y="410" font-family="Georgia, serif" font-size="12" fill="#B8A080" text-anchor="middle">• 留白大气</text>
+    <text x="1090" y="440" font-family="Georgia, serif" font-size="12" fill="#B8A080" text-anchor="middle">• 质感纹理</text>
+  </g>
+
+  <g id="footer">
+    <text x="1200" y="694" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#8A7A6A">04</text>
+    <line x1="80" y1="694" x2="120" y2="694" stroke="#8A7A6A" stroke-width="0.5" />
+  </g>
+</svg>

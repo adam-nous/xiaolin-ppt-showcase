@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="sysBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0D1B2A" />
+      <stop offset="100%" stop-color="#0A1628" />
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#sysBg)" />
+    <line x1="0" y1="180" x2="1280" y2="180" stroke="#1B3A5C" stroke-width="0.3" />
+    <line x1="0" y1="360" x2="1280" y2="360" stroke="#1B3A5C" stroke-width="0.3" />
+    <line x1="0" y1="540" x2="1280" y2="540" stroke="#1B3A5C" stroke-width="0.3" />
+    <line x1="320" y1="0" x2="320" y2="720" stroke="#1B3A5C" stroke-width="0.3" />
+    <line x1="640" y1="0" x2="640" y2="720" stroke="#1B3A5C" stroke-width="0.3" />
+    <line x1="960" y1="0" x2="960" y2="720" stroke="#1B3A5C" stroke-width="0.3" />
+    <rect x="0" y="0" width="1280" height="3" fill="#4A90D9" />
+    <rect x="0" y="717" width="1280" height="3" fill="#4A90D9" />
+  </g>
+
+  <g id="header" data-anim="true">
+<text x="80" y="60" font-family="Consolas, monospace" font-size="12" fill="#4A90D9" letter-spacing="3">SYSTEM OVERVIEW</text>
+    <text x="80" y="100" font-family="Consolas, monospace" font-size="36" fill="#FFFFFF">系统概述</text>
+    <line x1="80" y1="115" x2="280" y2="115" stroke="#4A90D9" stroke-width="2" />
+  </g>
+
+  <g id="card-objectives" data-anim="true">
+<rect x="80" y="150" width="560" height="200" fill="#4A90D9" opacity="0.1" />
+    <text x="100" y="190" font-family="Consolas, monospace" font-size="18" fill="#4A90D9">系统目标</text>
+    <line x1="100" y1="200" x2="220" y2="200" stroke="#4A90D9" stroke-width="1" />
+    <text x="100" y="230" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 高性能：响应时间 &lt; 100ms</text>
+    <text x="100" y="260" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 高可用：99.99% SLA</text>
+    <text x="100" y="290" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 可扩展：支持 10x 流量增长</text>
+    <text x="100" y="320" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 可维护：模块化、低耦合</text>
+  </g>
+
+  <g id="card-principles" data-anim="true">
+<rect x="660" y="150" width="540" height="200" fill="#4A90D9" opacity="0.05" />
+    <text x="680" y="190" font-family="Consolas, monospace" font-size="18" fill="#4A90D9">架构原则</text>
+    <line x1="680" y1="200" x2="800" y2="200" stroke="#4A90D9" stroke-width="1" />
+    <text x="680" y="230" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 微服务架构：独立部署、独立扩展</text>
+    <text x="680" y="260" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 事件驱动：异步解耦、最终一致</text>
+    <text x="680" y="290" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 领域驱动：业务建模、限界上下文</text>
+    <text x="680" y="320" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 云原生：容器化、服务网格</text>
+  </g>
+
+  <g id="card-tech-stack" data-anim="true">
+<rect x="80" y="380" width="1120" height="200" fill="#4A90D9" opacity="0.05" />
+    <text x="100" y="420" font-family="Consolas, monospace" font-size="18" fill="#4A90D9">技术选型</text>
+    <line x1="100" y1="430" x2="220" y2="430" stroke="#4A90D9" stroke-width="1" />
+    <text x="100" y="460" font-family="Consolas, monospace" font-size="14" fill="#7A9CC6">Runtime:</text>
+    <text x="250" y="460" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">Node.js 20 LTS / Go 1.22 / Rust</text>
+    <text x="100" y="490" font-family="Consolas, monospace" font-size="14" fill="#7A9CC6">Database:</text>
+    <text x="250" y="490" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">PostgreSQL 16 / Redis 7 / ClickHouse</text>
+    <text x="100" y="520" font-family="Consolas, monospace" font-size="14" fill="#7A9CC6">Queue:</text>
+    <text x="250" y="520" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">Apache Kafka 3.7 / RabbitMQ</text>
+    <text x="100" y="550" font-family="Consolas, monospace" font-size="14" fill="#7A9CC6">Infra:</text>
+    <text x="250" y="550" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">Kubernetes / Docker / Terraform / AWS</text>
+  </g>
+
+  <g id="footer">
+    <text x="1200" y="694" text-anchor="end" font-family="Consolas, monospace" font-size="11" fill="#4A7AAB">03</text>
+    <line x1="80" y1="694" x2="120" y2="694" stroke="#4A7AAB" stroke-width="0.5" />
+  </g>
+</svg>

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="colorBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FAFAFA" />
+      <stop offset="100%" stop-color="#F5F5F5" />
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#colorBg)" />
+    <line x1="80" y1="0" x2="80" y2="720" stroke="#E0E0E0" stroke-width="0.5" />
+    <line x1="400" y1="0" x2="400" y2="720" stroke="#E0E0E0" stroke-width="0.5" />
+    <line x1="720" y1="0" x2="720" y2="720" stroke="#E0E0E0" stroke-width="0.5" />
+    <line x1="1040" y1="0" x2="1040" y2="720" stroke="#E0E0E0" stroke-width="0.5" />
+  </g>
+
+  <g id="header" data-anim="true">
+<text x="80" y="60" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#E53E3E" letter-spacing="3">COLOR SYSTEM</text>
+    <text x="80" y="100" font-family="Helvetica, Arial, sans-serif" font-size="36" font-weight="700" fill="#1A202C">色彩系统</text>
+    <line x1="80" y1="115" x2="300" y2="115" stroke="#E53E3E" stroke-width="2" />
+  </g>
+
+  <g id="primary-colors">
+    <rect x="80" y="150" width="260" height="200" fill="#1A202C" />
+    <text x="210" y="200" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">PRIMARY</text>
+    <text x="210" y="260" font-family="Helvetica, Arial, sans-serif" font-size="36" font-weight="700" fill="#FFFFFF" text-anchor="middle">#1A202C</text>
+    <text x="210" y="310" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#A0AEC0" text-anchor="middle">主要文字、标题</text>
+    
+    <rect x="360" y="150" width="260" height="200" fill="#E53E3E" />
+    <text x="490" y="200" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">ACCENT</text>
+    <text x="490" y="260" font-family="Helvetica, Arial, sans-serif" font-size="36" font-weight="700" fill="#FFFFFF" text-anchor="middle">#E53E3E</text>
+    <text x="490" y="310" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="middle">强调、按钮、链接</text>
+    
+    <rect x="640" y="150" width="260" height="200" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="1" />
+    <text x="770" y="200" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A202C" text-anchor="middle">BACKGROUND</text>
+    <text x="770" y="260" font-family="Helvetica, Arial, sans-serif" font-size="36" font-weight="700" fill="#1A202C" text-anchor="middle">#FFFFFF</text>
+    <text x="770" y="310" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#718096" text-anchor="middle">背景、卡片</text>
+  </g>
+
+  <g id="neutral-colors">
+    <rect x="80" y="380" width="200" height="120" fill="#F7FAFC" stroke="#E0E0E0" stroke-width="1" />
+    <text x="180" y="440" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A202C" text-anchor="middle">#F7FAFC</text>
+    <text x="180" y="470" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#718096" text-anchor="middle">浅灰背景</text>
+    
+    <rect x="300" y="380" width="200" height="120" fill="#E2E8F0" />
+    <text x="400" y="440" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A202C" text-anchor="middle">#E2E8F0</text>
+    <text x="400" y="470" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#718096" text-anchor="middle">边框、分隔线</text>
+    
+    <rect x="520" y="380" width="200" height="120" fill="#A0AEC0" />
+    <text x="620" y="440" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">#A0AEC0</text>
+    <text x="620" y="470" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="middle">次要文字</text>
+    
+    <rect x="740" y="380" width="200" height="120" fill="#4A5568" />
+    <text x="840" y="440" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">#4A5568</text>
+    <text x="840" y="470" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="middle">正文文字</text>
+  </g>
+
+  <g id="color-rules">
+    <rect x="80" y="530" width="860" height="100" fill="#1A202C" />
+    <text x="100" y="570" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#E53E3E">COLOR RULES</text>
+    <text x="100" y="600" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#A0AEC0">• 主色调：黑色 #1A202C（文字） + 白色 #FFFFFF（背景）</text>
+    <text x="100" y="620" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#A0AEC0">• 强调色：红色 #E53E3E（关键信息、按钮、分隔线）</text>
+  </g>
+
+  <g id="footer">
+    <text x="1200" y="694" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#A0AEC0">06</text>
+    <line x1="80" y1="694" x2="120" y2="694" stroke="#A0AEC0" stroke-width="0.5" />
+  </g>
+</svg>

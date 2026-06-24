@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="sumBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1A1A2E" />
+      <stop offset="100%" stop-color="#0F0F1A" />
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#sumBg)" />
+    <rect x="0" y="0" width="1280" height="3" fill="#D4AF37" />
+    <rect x="0" y="717" width="1280" height="3" fill="#D4AF37" />
+    <rect x="0" y="0" width="3" height="720" fill="#D4AF37" />
+    <rect x="1277" y="0" width="3" height="720" fill="#D4AF37" />
+  </g>
+
+  <g id="header" data-anim="true">
+<text x="80" y="60" font-family="Georgia, serif" font-size="12" fill="#D4AF37" letter-spacing="4">SUMMARY</text>
+    <text x="80" y="100" font-family="Georgia, serif" font-size="36" fill="#FFFFFF">总结与精髓</text>
+    <line x1="80" y1="115" x2="280" y2="115" stroke="#D4AF37" stroke-width="2" />
+  </g>
+
+  <g id="card-key-essence" data-anim="true">
+<rect x="80" y="150" width="560" height="300" fill="#D4AF37" opacity="0.05" />
+    <text x="100" y="190" font-family="Georgia, serif" font-size="18" fill="#D4AF37">核心精髓</text>
+    <line x1="100" y1="200" x2="220" y2="200" stroke="#D4AF37" stroke-width="1" />
+    <text x="100" y="230" font-family="Georgia, serif" font-size="14" fill="#B8A080">• 传承与创新的完美平衡</text>
+    <text x="100" y="260" font-family="Georgia, serif" font-size="14" fill="#B8A080">• 精湛工艺与极致细节</text>
+    <text x="100" y="290" font-family="Georgia, serif" font-size="14" fill="#B8A080">• 黑白金三色的奢华表达</text>
+    <text x="100" y="320" font-family="Georgia, serif" font-size="14" fill="#B8A080">• 衬线字体的优雅与权威</text>
+    <text x="100" y="350" font-family="Georgia, serif" font-size="14" fill="#B8A080">• 留白与空间的呼吸感</text>
+    <text x="100" y="380" font-family="Georgia, serif" font-size="14" fill="#B8A080">• 质感光影的视觉叙事</text>
+  </g>
+
+  <g id="card-design-principles" data-anim="true">
+<rect x="660" y="150" width="540" height="300" fill="#D4AF37" opacity="0.03" />
+    <text x="680" y="190" font-family="Georgia, serif" font-size="18" fill="#D4AF37">设计原则</text>
+    <line x1="680" y1="200" x2="800" y2="200" stroke="#D4AF37" stroke-width="1" />
+    <text x="680" y="230" font-family="Georgia, serif" font-size="14" fill="#B8A080">1. 少即是多：克制中见奢华</text>
+    <text x="680" y="260" font-family="Georgia, serif" font-size="14" fill="#B8A080">2. 质感优先：材质与工艺的表达</text>
+    <text x="680" y="290" font-family="Georgia, serif" font-size="14" fill="#B8A080">3. 细节至上：每一处都精雕细琢</text>
+    <text x="680" y="320" font-family="Georgia, serif" font-size="14" fill="#B8A080">4. 一致性：品牌触点的统一表达</text>
+    <text x="680" y="350" font-family="Georgia, serif" font-size="14" fill="#B8A080">5. 情感连接：超越功能的价值传递</text>
+    <text x="680" y="380" font-family="Georgia, serif" font-size="14" fill="#B8A080">6. 永恒美学：超越潮流的经典设计</text>
+  </g>
+
+  <g id="cta">
+    <rect x="80" y="480" width="1120" height="80" fill="#D4AF37" opacity="0.15" />
+    <text x="640" y="530" font-family="Georgia, serif" font-size="24" fill="#FFFFFF" text-anchor="middle">开启奢华品牌设计之旅</text>
+  </g>
+
+  <g id="contact">
+    <text x="640" y="600" font-family="Georgia, serif" font-size="16" fill="#8A7A6A" text-anchor="middle">luxury-design@brand.com | luxury-brand.com</text>
+  </g>
+
+  <g id="footer">
+    <text x="1200" y="694" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#8A7A6A">08</text>
+    <line x1="80" y1="694" x2="120" y2="694" stroke="#8A7A6A" stroke-width="0.5" />
+  </g>
+</svg>

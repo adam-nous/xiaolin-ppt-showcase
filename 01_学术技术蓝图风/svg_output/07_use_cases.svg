@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="caseBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F7FAFC" />
+      <stop offset="100%" stop-color="#EDF2F7" />
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#caseBg)" />
+    <rect x="0" y="0" width="6" height="720" fill="#1A365D" />
+  </g>
+
+  <g id="header" data-anim="true">
+<text x="80" y="60" font-family="Consolas, monospace" font-size="12" font-weight="700" fill="#3182CE" letter-spacing="3">USE CASES</text>
+    <text x="80" y="100" font-family="Georgia, serif" font-size="36" font-weight="700" fill="#1A365D">应用场景与案例</text>
+    <line x1="80" y1="115" x2="380" y2="115" stroke="#3182CE" stroke-width="2" />
+  </g>
+
+  <g id="card-cases" data-anim="true">
+<g id="case-1">
+      <rect x="80" y="150" width="560" height="180" fill="#FFFFFF" rx="8" stroke="#E2E8F0" stroke-width="1" />
+      <rect x="80" y="150" width="8" height="180" fill="#3182CE" rx="4" />
+      <text x="110" y="190" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#1A365D">电商交易平台</text>
+      <text x="110" y="220" font-family="Arial, sans-serif" font-size="14" fill="#4A5568">• 日均订单处理量：100万+</text>
+      <text x="110" y="245" font-family="Arial, sans-serif" font-size="14" fill="#4A5568">• 峰值 QPS：50,000</text>
+      <text x="110" y="270" font-family="Arial, sans-serif" font-size="14" fill="#4A5568">• 业务价值：订单处理效率提升 300%</text>
+      <text x="110" y="300" font-family="Consolas, monospace" font-size="12" fill="#3182CE">[Microservices] [Event-Driven] [CQRS]</text>
+    </g>
+
+    <g id="case-2">
+      <rect x="640" y="150" width="560" height="180" fill="#FFFFFF" rx="8" stroke="#E2E8F0" stroke-width="1" />
+      <rect x="640" y="150" width="8" height="180" fill="#1A365D" rx="4" />
+      <text x="670" y="190" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#1A365D">金融风控系统</text>
+      <text x="670" y="220" font-family="Arial, sans-serif" font-size="14" fill="#4A5568">• 实时交易风控：毫秒级响应</text>
+      <text x="670" y="245" font-family="Arial, sans-serif" font-size="14" fill="#4A5568">• 风险识别准确率：99.5%</text>
+      <text x="670" y="270" font-family="Arial, sans-serif" font-size="14" fill="#4A5568">• 业务价值：欺诈损失降低 80%</text>
+      <text x="670" y="300" font-family="Consolas, monospace" font-size="12" fill="#3182CE">[Stream Processing] [ML Pipeline]</text>
+    </g>
+
+    <g id="case-3">
+      <rect x="80" y="360" width="560" height="180" fill="#FFFFFF" rx="8" stroke="#E2E8F0" stroke-width="1" />
+      <rect x="80" y="360" width="8" height="180" fill="#2A4A7F" rx="4" />
+      <text x="110" y="400" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#1A365D">物联网数据平台</text>
+      <text x="110" y="430" font-family="Arial, sans-serif" font-size="14" fill="#4A5568">• 设备接入数量：100万+</text>
+      <text x="110" y="455" font-family="Arial, sans-serif" font-size="14" fill="#4A5568">• 数据采集频率：秒级</text>
+      <text x="110" y="480" font-family="Arial, sans-serif" font-size="14" fill="#4A5568">• 业务价值：设备运维成本降低 60%</text>
+      <text x="110" y="510" font-family="Consolas, monospace" font-size="12" fill="#3182CE">[MQTT] [Time-Series DB] [Edge Computing]</text>
+    </g>
+
+    <g id="case-4">
+      <rect x="640" y="360" width="560" height="180" fill="#FFFFFF" rx="8" stroke="#E2E8F0" stroke-width="1" />
+      <rect x="640" y="360" width="8" height="180" fill="#4A6A9F" rx="4" />
+      <text x="670" y="400" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#1A365D">内容分发网络</text>
+      <text x="670" y="430" font-family="Arial, sans-serif" font-size="14" fill="#4A5568">• 全球节点覆盖：50+</text>
+      <text x="670" y="455" font-family="Arial, sans-serif" font-size="14" fill="#4A5568">• 内容分发延迟：&lt; 50ms</text>
+      <text x="670" y="480" font-family="Arial, sans-serif" font-size="14" fill="#4A5568">• 业务价值：用户访问速度提升 5x</text>
+      <text x="670" y="510" font-family="Consolas, monospace" font-size="12" fill="#3182CE">[CDN] [Edge Cache] [Global Load Balance]</text>
+    </g>
+  </g>
+
+  <g id="footer">
+    <text x="1200" y="694" text-anchor="end" font-family="Consolas, monospace" font-size="11" fill="#A0AEC0">07</text>
+    <line x1="80" y1="694" x2="120" y2="694" stroke="#A0AEC0" stroke-width="0.5" />
+  </g>
+</svg>

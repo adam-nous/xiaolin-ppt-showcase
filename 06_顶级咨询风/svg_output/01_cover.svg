@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="consultBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1B2A4A" />
+      <stop offset="100%" stop-color="#0F1A2E" />
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#consultBg)" />
+    <rect x="0" y="0" width="1280" height="4" fill="#C9A96E" />
+    <rect x="0" y="716" width="1280" height="4" fill="#C9A96E" />
+  </g>
+
+  <g id="title-marks" data-anim="true">
+<rect x="80" y="120" width="60" height="3" fill="#C9A96E" />
+    <text x="80" y="160" font-family="Georgia, serif" font-size="13" fill="#C9A96E" letter-spacing="2.5">TOP · CONSULTING</text>
+  </g>
+
+  <g id="title-main" data-anim="true">
+<text x="80" y="300" font-family="Georgia, serif" font-size="64" font-weight="700" fill="#FFFFFF">战略</text>
+    <text x="80" y="380" font-family="Georgia, serif" font-size="64" font-weight="700" fill="#FFFFFF">咨询</text>
+    <text x="80" y="460" font-family="Georgia, serif" font-size="64" font-weight="700" fill="#C9A96E">方案</text>
+  </g>
+
+  <g id="card-subtitle" data-anim="true">
+<line x1="80" y1="500" x2="160" y2="500" stroke="#C9A96E" stroke-width="1.5" />
+    <text x="80" y="530" font-family="Arial, sans-serif" font-size="18" fill="#A0B4D0">企业战略规划与数字化转型</text>
+    <text x="80" y="560" font-family="Arial, sans-serif" font-size="14" fill="#6B8BB8">2026 年度战略报告</text>
+  </g>
+
+  <g id="hero-consulting-logo" data-anim="true">
+<rect x="1000" y="400" width="200" height="200" fill="none" stroke="#C9A96E" stroke-width="2" />
+    <text x="1100" y="510" font-family="Georgia, serif" font-size="72" font-weight="700" fill="#C9A96E" text-anchor="middle">S</text>
+    <text x="1100" y="560" font-family="Arial, sans-serif" font-size="14" fill="#A0B4D0" text-anchor="middle">STRATEGY</text>
+  </g>
+
+  <g id="footer">
+    <text x="1200" y="694" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#6B8BB8">01</text>
+    <line x1="80" y1="694" x2="120" y2="694" stroke="#6B8BB8" stroke-width="0.5" />
+  </g>
+</svg>

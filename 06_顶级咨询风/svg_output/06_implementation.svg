@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="implBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1B2A4A" />
+      <stop offset="100%" stop-color="#0F1A2E" />
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#implBg)" />
+    <rect x="0" y="0" width="1280" height="4" fill="#C9A96E" />
+    <rect x="0" y="716" width="1280" height="4" fill="#C9A96E" />
+  </g>
+
+  <g id="header" data-anim="true">
+<text x="80" y="60" font-family="Georgia, serif" font-size="12" fill="#C9A96E" letter-spacing="3">IMPLEMENTATION</text>
+    <text x="80" y="100" font-family="Georgia, serif" font-size="36" fill="#FFFFFF">实施路径</text>
+    <line x1="80" y1="115" x2="250" y2="115" stroke="#C9A96E" stroke-width="2" />
+  </g>
+
+  <g id="card-timeline" data-anim="true">
+<g id="phase-1">
+      <rect x="80" y="150" width="280" height="200" fill="#C9A96E" opacity="0.15" />
+      <text x="220" y="190" font-family="Georgia, serif" font-size="18" fill="#C9A96E" text-anchor="middle">第一阶段</text>
+      <text x="220" y="220" font-family="Georgia, serif" font-size="24" fill="#FFFFFF" text-anchor="middle">0-6 个月</text>
+      <text x="220" y="250" font-family="Arial, sans-serif" font-size="13" fill="#A0B4D0" text-anchor="middle">基础建设</text>
+      <text x="100" y="280" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF">• 数据平台搭建</text>
+      <text x="100" y="300" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF">• 团队组建</text>
+      <text x="100" y="320" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF">• 流程优化</text>
+    </g>
+
+    <g id="phase-2">
+      <rect x="380" y="150" width="280" height="200" fill="#C9A96E" opacity="0.1" />
+      <text x="520" y="190" font-family="Georgia, serif" font-size="18" fill="#C9A96E" text-anchor="middle">第二阶段</text>
+      <text x="520" y="220" font-family="Georgia, serif" font-size="24" fill="#FFFFFF" text-anchor="middle">6-12 个月</text>
+      <text x="520" y="250" font-family="Arial, sans-serif" font-size="13" fill="#A0B4D0" text-anchor="middle">能力建设</text>
+      <text x="400" y="280" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF">• AI 应用开发</text>
+      <text x="400" y="300" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF">• 产品迭代</text>
+      <text x="400" y="320" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF">• 市场拓展</text>
+    </g>
+
+    <g id="phase-3">
+      <rect x="680" y="150" width="280" height="200" fill="#C9A96E" opacity="0.15" />
+      <text x="820" y="190" font-family="Georgia, serif" font-size="18" fill="#C9A96E" text-anchor="middle">第三阶段</text>
+      <text x="820" y="220" font-family="Georgia, serif" font-size="24" fill="#FFFFFF" text-anchor="middle">12-18 个月</text>
+      <text x="820" y="250" font-family="Arial, sans-serif" font-size="13" fill="#A0B4D0" text-anchor="middle">规模扩展</text>
+      <text x="700" y="280" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF">• 全面推广</text>
+      <text x="700" y="300" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF">• 生态构建</text>
+      <text x="700" y="320" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF">• 持续优化</text>
+    </g>
+
+    <g id="milestones">
+      <rect x="980" y="150" width="220" height="200" fill="#C9A96E" opacity="0.08" />
+      <text x="1090" y="190" font-family="Georgia, serif" font-size="18" fill="#C9A96E" text-anchor="middle">关键里程碑</text>
+      <text x="1090" y="220" font-family="Arial, sans-serif" font-size="13" fill="#A0B4D0" text-anchor="middle">M3: 平台上线</text>
+      <text x="1090" y="250" font-family="Arial, sans-serif" font-size="13" fill="#A0B4D0" text-anchor="middle">M6: 首个 AI 应用</text>
+      <text x="1090" y="280" font-family="Arial, sans-serif" font-size="13" fill="#A0B4D0" text-anchor="middle">M12: 全面数字化</text>
+      <text x="1090" y="310" font-family="Arial, sans-serif" font-size="13" fill="#A0B4D0" text-anchor="middle">M18: 生态成熟</text>
+    </g>
+  </g>
+
+  <g id="card-resources" data-anim="true">
+<rect x="80" y="380" width="1120" height="150" fill="#C9A96E" opacity="0.05" />
+    <text x="100" y="420" font-family="Georgia, serif" font-size="18" fill="#C9A96E">资源配置</text>
+    <line x1="100" y1="430" x2="220" y2="430" stroke="#C9A96E" stroke-width="1" />
+    <text x="100" y="460" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 人力资源：组建 50 人专项团队</text>
+    <text x="100" y="490" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 技术投入：$20M 技术基础设施</text>
+    <text x="100" y="520" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 培训预算：$5M 人才发展计划</text>
+  </g>
+
+  <g id="footer">
+    <text x="1200" y="694" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#6B8BB8">06</text>
+    <line x1="80" y1="694" x2="120" y2="694" stroke="#6B8BB8" stroke-width="0.5" />
+  </g>
+</svg>

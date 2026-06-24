@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="#1A1A1A" />
+    <rect x="0" y="0" width="1280" height="8" fill="#FF0000" />
+    <rect x="0" y="712" width="1280" height="8" fill="#FF0000" />
+  </g>
+
+  <g id="header" data-anim="true">
+<rect x="40" y="40" width="1200" height="60" fill="#FF0000" />
+    <text x="640" y="80" font-family="Impact, Arial Black, sans-serif" font-size="28" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="8">TYPOGRAPHY</text>
+  </g>
+
+  <g id="title-main-title" data-anim="true">
+<text x="80" y="180" font-family="Impact, Arial Black, sans-serif" font-size="72" font-weight="900" fill="#FFFFFF">BIG</text>
+    <text x="80" y="270" font-family="Impact, Arial Black, sans-serif" font-size="72" font-weight="900" fill="#FF0000">BOLD</text>
+    <text x="80" y="360" font-family="Impact, Arial Black, sans-serif" font-size="72" font-weight="900" fill="#FFFFFF">BLACK</text>
+  </g>
+
+  <g id="type-samples">
+    <rect x="80" y="400" width="1120" height="80" fill="#333333" />
+    <text x="100" y="450" font-family="Impact, Arial Black, sans-serif" font-size="48" font-weight="900" fill="#FFFFFF">IMPACT 48px</text>
+    
+    <rect x="80" y="490" width="1120" height="60" fill="#333333" />
+    <text x="100" y="530" font-family="Impact, Arial Black, sans-serif" font-size="36" font-weight="900" fill="#CCCCCC">IMPACT 36px</text>
+    
+    <rect x="80" y="560" width="1120" height="50" fill="#333333" />
+    <text x="100" y="595" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">Arial Bold 24px</text>
+    
+    <rect x="80" y="620" width="1120" height="40" fill="#333333" />
+    <text x="100" y="650" font-family="Arial, sans-serif" font-size="16" fill="#CCCCCC">Arial Regular 16px - 正文内容</text>
+  </g>
+
+  <g id="sidebar">
+    <rect x="980" y="140" width="220" height="150" fill="#333333" />
+    <text x="1090" y="200" font-family="Impact, Arial Black, sans-serif" font-size="80" font-weight="900" fill="#FF0000" text-anchor="middle">06</text>
+    <text x="1090" y="260" font-family="Arial, sans-serif" font-size="16" fill="#CCCCCC" text-anchor="middle">TYPE</text>
+  </g>
+
+  <g id="footer-bar">
+    <rect x="40" y="640" width="1200" height="40" fill="#333333" />
+    <text x="640" y="665" font-family="Arial, sans-serif" font-size="14" fill="#CCCCCC" text-anchor="middle">BRUTALIST NEWSPAPER · 2026</text>
+  </g>
+</svg>

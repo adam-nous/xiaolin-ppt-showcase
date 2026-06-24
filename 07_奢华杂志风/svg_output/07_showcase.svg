@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="showBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1A1A2E" />
+      <stop offset="100%" stop-color="#0F0F1A" />
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#showBg)" />
+    <rect x="0" y="0" width="1280" height="3" fill="#D4AF37" />
+    <rect x="0" y="717" width="1280" height="3" fill="#D4AF37" />
+    <rect x="0" y="0" width="3" height="720" fill="#D4AF37" />
+    <rect x="1277" y="0" width="3" height="720" fill="#D4AF37" />
+  </g>
+
+  <g id="header" data-anim="true">
+<text x="80" y="60" font-family="Georgia, serif" font-size="12" fill="#D4AF37" letter-spacing="4">05</text>
+    <text x="80" y="100" font-family="Georgia, serif" font-size="36" fill="#FFFFFF">案例赏析</text>
+    <line x1="80" y1="115" x2="250" y2="115" stroke="#D4AF37" stroke-width="2" />
+  </g>
+
+  <g id="card-showcase-cards" data-anim="true">
+<g id="case-1">
+      <rect x="80" y="150" width="560" height="240" fill="#2A2A3E" />
+      <rect x="80" y="150" width="4" height="240" fill="#D4AF37" />
+      <text x="110" y="190" font-family="Georgia, serif" font-size="20" fill="#D4AF37">品牌视觉系统</text>
+      <text x="110" y="220" font-family="Georgia, serif" font-size="14" fill="#B8A080">完整的品牌视觉识别系统设计，</text>
+      <text x="110" y="245" font-family="Georgia, serif" font-size="14" fill="#B8A080">包括标志、色彩、字体、图像风格等，</text>
+      <text x="110" y="270" font-family="Georgia, serif" font-size="14" fill="#B8A080">确保品牌在所有触点的一致性。</text>
+      <rect x="110" y="300" width="120" height="30" fill="#D4AF37" opacity="0.2" />
+      <text x="170" y="320" font-family="Georgia, serif" font-size="12" fill="#D4AF37" text-anchor="middle">查看详情</text>
+    </g>
+
+    <g id="case-2">
+      <rect x="660" y="150" width="540" height="240" fill="#2A2A3E" />
+      <rect x="660" y="150" width="4" height="240" fill="#D4AF37" />
+      <text x="690" y="190" font-family="Georgia, serif" font-size="20" fill="#D4AF37">产品包装设计</text>
+      <text x="690" y="220" font-family="Georgia, serif" font-size="14" fill="#B8A080">高端产品包装设计，</text>
+      <text x="690" y="245" font-family="Georgia, serif" font-size="14" fill="#B8A080">从材质选择到工艺细节，</text>
+      <text x="690" y="270" font-family="Georgia, serif" font-size="14" fill="#B8A080">打造极致的开箱体验。</text>
+      <rect x="690" y="300" width="120" height="30" fill="#D4AF37" opacity="0.2" />
+      <text x="750" y="320" font-family="Georgia, serif" font-size="12" fill="#D4AF37" text-anchor="middle">查看详情</text>
+    </g>
+
+    <g id="case-3">
+      <rect x="80" y="420" width="560" height="240" fill="#2A2A3E" />
+      <rect x="80" y="420" width="4" height="240" fill="#D4AF37" />
+      <text x="110" y="460" font-family="Georgia, serif" font-size="20" fill="#D4AF37">空间设计</text>
+      <text x="110" y="490" font-family="Georgia, serif" font-size="14" fill="#B8A080">奢华零售空间设计，</text>
+      <text x="110" y="515" font-family="Georgia, serif" font-size="14" fill="#B8A080">从空间布局到材质选择，</text>
+      <text x="110" y="540" font-family="Georgia, serif" font-size="14" fill="#B8A080">营造沉浸式的品牌体验。</text>
+      <rect x="110" y="570" width="120" height="30" fill="#D4AF37" opacity="0.2" />
+      <text x="170" y="590" font-family="Georgia, serif" font-size="12" fill="#D4AF37" text-anchor="middle">查看详情</text>
+    </g>
+
+    <g id="case-4">
+      <rect x="660" y="420" width="540" height="240" fill="#2A2A3E" />
+      <rect x="660" y="420" width="4" height="240" fill="#D4AF37" />
+      <text x="690" y="460" font-family="Georgia, serif" font-size="20" fill="#D4AF37">数字媒体</text>
+      <text x="690" y="490" font-family="Georgia, serif" font-size="14" fill="#B8A080">高端品牌数字媒体设计，</text>
+      <text x="690" y="515" font-family="Georgia, serif" font-size="14" fill="#B8A080">网站、APP、社交媒体等，</text>
+      <text x="690" y="540" font-family="Georgia, serif" font-size="14" fill="#B8A080">保持一致的奢华体验。</text>
+      <rect x="690" y="570" width="120" height="30" fill="#D4AF37" opacity="0.2" />
+      <text x="750" y="590" font-family="Georgia, serif" font-size="12" fill="#D4AF37" text-anchor="middle">查看详情</text>
+    </g>
+  </g>
+
+  <g id="footer">
+    <text x="1200" y="694" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#8A7A6A">07</text>
+    <line x1="80" y1="694" x2="120" y2="694" stroke="#8A7A6A" stroke-width="0.5" />
+  </g>
+</svg>

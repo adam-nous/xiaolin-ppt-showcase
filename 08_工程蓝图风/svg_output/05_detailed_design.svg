@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="detBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0D1B2A" />
+      <stop offset="100%" stop-color="#0A1628" />
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#detBg)" />
+    <line x1="0" y1="180" x2="1280" y2="180" stroke="#1B3A5C" stroke-width="0.3" />
+    <line x1="0" y1="360" x2="1280" y2="360" stroke="#1B3A5C" stroke-width="0.3" />
+    <line x1="0" y1="540" x2="1280" y2="540" stroke="#1B3A5C" stroke-width="0.3" />
+    <line x1="320" y1="0" x2="320" y2="720" stroke="#1B3A5C" stroke-width="0.3" />
+    <line x1="640" y1="0" x2="640" y2="720" stroke="#1B3A5C" stroke-width="0.3" />
+    <line x1="960" y1="0" x2="960" y2="720" stroke="#1B3A5C" stroke-width="0.3" />
+    <rect x="0" y="0" width="1280" height="3" fill="#4A90D9" />
+    <rect x="0" y="717" width="1280" height="3" fill="#4A90D9" />
+  </g>
+
+  <g id="header" data-anim="true">
+<text x="80" y="60" font-family="Consolas, monospace" font-size="12" fill="#4A90D9" letter-spacing="3">DETAILED DESIGN</text>
+    <text x="80" y="100" font-family="Consolas, monospace" font-size="36" fill="#FFFFFF">详细设计</text>
+    <line x1="80" y1="115" x2="280" y2="115" stroke="#4A90D9" stroke-width="2" />
+  </g>
+
+  <g id="chart-data-model" data-anim="true">
+<rect x="80" y="150" width="560" height="250" fill="#4A90D9" opacity="0.1" />
+    <text x="100" y="190" font-family="Consolas, monospace" font-size="18" fill="#4A90D9">数据模型</text>
+    <line x1="100" y1="200" x2="220" y2="200" stroke="#4A90D9" stroke-width="1" />
+    <rect x="100" y="220" width="240" height="60" fill="#0A1628" stroke="#4A90D9" stroke-width="1" />
+    <text x="220" y="255" font-family="Consolas, monospace" font-size="14" fill="#FFFFFF" text-anchor="middle">User Table</text>
+    <rect x="380" y="220" width="240" height="60" fill="#0A1628" stroke="#4A90D9" stroke-width="1" />
+    <text x="500" y="255" font-family="Consolas, monospace" font-size="14" fill="#FFFFFF" text-anchor="middle">Order Table</text>
+    <rect x="100" y="300" width="240" height="60" fill="#0A1628" stroke="#4A90D9" stroke-width="1" />
+    <text x="220" y="335" font-family="Consolas, monospace" font-size="14" fill="#FFFFFF" text-anchor="middle">Product Table</text>
+    <rect x="380" y="300" width="240" height="60" fill="#0A1628" stroke="#4A90D9" stroke-width="1" />
+    <text x="500" y="335" font-family="Consolas, monospace" font-size="14" fill="#FFFFFF" text-anchor="middle">Payment Table</text>
+    <line x1="220" y1="280" x2="220" y2="300" stroke="#4A90D9" stroke-width="1" />
+    <line x1="500" y1="280" x2="500" y2="300" stroke="#4A90D9" stroke-width="1" />
+    <line x1="340" y1="250" x2="380" y2="250" stroke="#4A90D9" stroke-width="1" />
+  </g>
+
+  <g id="card-algorithm" data-anim="true">
+<rect x="660" y="150" width="540" height="250" fill="#4A90D9" opacity="0.05" />
+    <text x="680" y="190" font-family="Consolas, monospace" font-size="18" fill="#4A90D9">算法设计</text>
+    <line x1="680" y1="200" x2="800" y2="200" stroke="#4A90D9" stroke-width="1" />
+    <text x="680" y="230" font-family="Consolas, monospace" font-size="14" fill="#FFFFFF">• 推荐算法：协同过滤 + 深度学习</text>
+    <text x="680" y="260" font-family="Consolas, monospace" font-size="14" fill="#FFFFFF">• 搜索算法：Elasticsearch + BM25</text>
+    <text x="680" y="290" font-family="Consolas, monospace" font-size="14" fill="#FFFFFF">• 排序算法：多因子加权排序</text>
+    <text x="680" y="320" font-family="Consolas, monospace" font-size="14" fill="#FFFFFF">• 缓存策略：LRU + TTL + 预热</text>
+    <text x="680" y="350" font-family="Consolas, monospace" font-size="14" fill="#FFFFFF">• 限流算法：令牌桶 + 滑动窗口</text>
+  </g>
+
+  <g id="chart-flowchart" data-anim="true">
+<rect x="80" y="430" width="1120" height="150" fill="#4A90D9" opacity="0.05" />
+    <text x="100" y="470" font-family="Consolas, monospace" font-size="18" fill="#4A90D9">核心流程</text>
+    <line x1="100" y1="480" x2="220" y2="480" stroke="#4A90D9" stroke-width="1" />
+    <rect x="150" y="500" width="120" height="40" fill="#0A1628" stroke="#4A90D9" stroke-width="1" />
+    <text x="210" y="525" font-family="Consolas, monospace" font-size="12" fill="#FFFFFF" text-anchor="middle">接收请求</text>
+    <rect x="320" y="500" width="120" height="40" fill="#0A1628" stroke="#4A90D9" stroke-width="1" />
+    <text x="380" y="525" font-family="Consolas, monospace" font-size="12" fill="#FFFFFF" text-anchor="middle">参数校验</text>
+    <rect x="490" y="500" width="120" height="40" fill="#0A1628" stroke="#4A90D9" stroke-width="1" />
+    <text x="550" y="525" font-family="Consolas, monospace" font-size="12" fill="#FFFFFF" text-anchor="middle">业务处理</text>
+    <rect x="660" y="500" width="120" height="40" fill="#0A1628" stroke="#4A90D9" stroke-width="1" />
+    <text x="720" y="525" font-family="Consolas, monospace" font-size="12" fill="#FFFFFF" text-anchor="middle">数据持久化</text>
+    <rect x="830" y="500" width="120" height="40" fill="#0A1628" stroke="#4A90D9" stroke-width="1" />
+    <text x="890" y="525" font-family="Consolas, monospace" font-size="12" fill="#FFFFFF" text-anchor="middle">返回结果</text>
+    <line x1="270" y1="520" x2="320" y2="520" stroke="#4A90D9" stroke-width="1" />
+    <line x1="440" y1="520" x2="490" y2="520" stroke="#4A90D9" stroke-width="1" />
+    <line x1="610" y1="520" x2="660" y2="520" stroke="#4A90D9" stroke-width="1" />
+    <line x1="780" y1="520" x2="830" y2="520" stroke="#4A90D9" stroke-width="1" />
+  </g>
+
+  <g id="footer">
+    <text x="1200" y="694" text-anchor="end" font-family="Consolas, monospace" font-size="11" fill="#4A7AAB">05</text>
+    <line x1="80" y1="694" x2="120" y2="694" stroke="#4A7AAB" stroke-width="0.5" />
+  </g>
+</svg>

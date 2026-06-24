@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="specBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0D1B2A" />
+      <stop offset="100%" stop-color="#0A1628" />
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#specBg)" />
+    <line x1="0" y1="180" x2="1280" y2="180" stroke="#1B3A5C" stroke-width="0.3" />
+    <line x1="0" y1="360" x2="1280" y2="360" stroke="#1B3A5C" stroke-width="0.3" />
+    <line x1="0" y1="540" x2="1280" y2="540" stroke="#1B3A5C" stroke-width="0.3" />
+    <line x1="320" y1="0" x2="320" y2="720" stroke="#1B3A5C" stroke-width="0.3" />
+    <line x1="640" y1="0" x2="640" y2="720" stroke="#1B3A5C" stroke-width="0.3" />
+    <line x1="960" y1="0" x2="960" y2="720" stroke="#1B3A5C" stroke-width="0.3" />
+    <rect x="0" y="0" width="1280" height="3" fill="#4A90D9" />
+    <rect x="0" y="717" width="1280" height="3" fill="#4A90D9" />
+  </g>
+
+  <g id="header" data-anim="true">
+<text x="80" y="60" font-family="Consolas, monospace" font-size="12" fill="#4A90D9" letter-spacing="3">SPECIFICATIONS</text>
+    <text x="80" y="100" font-family="Consolas, monospace" font-size="36" fill="#FFFFFF">技术规范</text>
+    <line x1="80" y1="115" x2="250" y2="115" stroke="#4A90D9" stroke-width="2" />
+  </g>
+
+  <g id="card-coding-standards" data-anim="true">
+<rect x="80" y="150" width="360" height="250" fill="#4A90D9" opacity="0.1" />
+    <text x="100" y="190" font-family="Consolas, monospace" font-size="18" fill="#4A90D9">编码规范</text>
+    <line x1="100" y1="200" x2="220" y2="200" stroke="#4A90D9" stroke-width="1" />
+    <text x="100" y="230" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• TypeScript 严格模式</text>
+    <text x="100" y="260" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• ESLint + Prettier</text>
+    <text x="100" y="290" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• Git Conventional Commits</text>
+    <text x="100" y="320" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• Code Review 必须</text>
+    <text x="100" y="350" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 单元测试覆盖率 &gt; 80%</text>
+  </g>
+
+  <g id="card-testing" data-anim="true">
+<rect x="460" y="150" width="360" height="250" fill="#4A90D9" opacity="0.05" />
+    <text x="480" y="190" font-family="Consolas, monospace" font-size="18" fill="#4A90D9">测试策略</text>
+    <line x1="480" y1="200" x2="600" y2="200" stroke="#4A90D9" stroke-width="1" />
+    <text x="480" y="230" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 单元测试：Jest / Vitest</text>
+    <text x="480" y="260" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 集成测试：Supertest</text>
+    <text x="480" y="290" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• E2E 测试：Playwright</text>
+    <text x="480" y="320" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 性能测试：k6 / Artillery</text>
+    <text x="480" y="350" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 安全测试：OWASP ZAP</text>
+  </g>
+
+  <g id="card-deployment" data-anim="true">
+<rect x="840" y="150" width="360" height="250" fill="#4A90D9" opacity="0.1" />
+    <text x="860" y="190" font-family="Consolas, monospace" font-size="18" fill="#4A90D9">部署方案</text>
+    <line x1="860" y1="200" x2="980" y2="200" stroke="#4A90D9" stroke-width="1" />
+    <text x="860" y="230" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• CI/CD：GitHub Actions</text>
+    <text x="860" y="260" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 容器化：Docker + K8s</text>
+    <text x="860" y="290" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 服务网格：Istio</text>
+    <text x="860" y="320" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 监控：Prometheus + Grafana</text>
+    <text x="860" y="350" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 日志：ELK Stack</text>
+  </g>
+
+  <g id="card-security" data-anim="true">
+<rect x="80" y="430" width="1120" height="150" fill="#4A90D9" opacity="0.05" />
+    <text x="100" y="470" font-family="Consolas, monospace" font-size="18" fill="#4A90D9">安全规范</text>
+    <line x1="100" y1="480" x2="220" y2="480" stroke="#4A90D9" stroke-width="1" />
+    <text x="100" y="510" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 认证：JWT + OAuth 2.0 | 授权：RBAC + ABAC</text>
+    <text x="100" y="540" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 数据加密：AES-256 + TLS 1.3 | 密钥管理：Vault</text>
+    <text x="100" y="570" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">• 安全扫描：Snyk + SonarQube | 渗透测试：季度执行</text>
+  </g>
+
+  <g id="footer">
+    <text x="1200" y="694" text-anchor="end" font-family="Consolas, monospace" font-size="11" fill="#4A7AAB">06</text>
+    <line x1="80" y1="694" x2="120" y2="694" stroke="#4A7AAB" stroke-width="0.5" />
+  </g>
+</svg>

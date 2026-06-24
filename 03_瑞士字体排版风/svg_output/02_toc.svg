@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="tocBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FAFAFA" />
+      <stop offset="100%" stop-color="#F5F5F5" />
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#tocBg)" />
+    <line x1="80" y1="0" x2="80" y2="720" stroke="#E0E0E0" stroke-width="0.5" />
+    <line x1="400" y1="0" x2="400" y2="720" stroke="#E0E0E0" stroke-width="0.5" />
+    <line x1="720" y1="0" x2="720" y2="720" stroke="#E0E0E0" stroke-width="0.5" />
+    <line x1="1040" y1="0" x2="1040" y2="720" stroke="#E0E0E0" stroke-width="0.5" />
+  </g>
+
+  <g id="title-toc-header" data-anim="true">
+<text x="80" y="80" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#E53E3E" letter-spacing="3">TABLE OF CONTENTS</text>
+    <line x1="80" y1="90" x2="280" y2="90" stroke="#E53E3E" stroke-width="1" />
+  </g>
+
+  <g id="card-toc-items" data-anim="true">
+<g id="toc-item-1" data-anim="true">
+<text x="80" y="160" font-family="Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#E53E3E">01</text>
+      <text x="200" y="150" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#1A202C">设计理念</text>
+      <text x="200" y="180" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#718096">网格系统、字体排版、视觉层次</text>
+      <line x1="80" y1="200" x2="700" y2="200" stroke="#E0E0E0" stroke-width="1" />
+    </g>
+
+    <g id="toc-item-2" data-anim="true">
+<text x="80" y="260" font-family="Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#E53E3E">02</text>
+      <text x="200" y="250" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#1A202C">网格系统</text>
+      <text x="200" y="280" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#718096">12列网格、响应式布局、间距规范</text>
+      <line x1="80" y1="300" x2="700" y2="300" stroke="#E0E0E0" stroke-width="1" />
+    </g>
+
+    <g id="toc-item-3" data-anim="true">
+<text x="80" y="360" font-family="Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#E53E3E">03</text>
+      <text x="200" y="350" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#1A202C">字体规范</text>
+      <text x="200" y="380" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#718096">无衬线字体、字号阶梯、字重搭配</text>
+      <line x1="80" y1="400" x2="700" y2="400" stroke="#E0E0E0" stroke-width="1" />
+    </g>
+
+    <g id="toc-item-4" data-anim="true">
+<text x="80" y="460" font-family="Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#E53E3E">04</text>
+      <text x="200" y="450" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#1A202C">色彩系统</text>
+      <text x="200" y="480" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#718096">黑白为主、红色强调、灰色辅助</text>
+      <line x1="80" y1="500" x2="700" y2="500" stroke="#E0E0E0" stroke-width="1" />
+    </g>
+
+    <g id="toc-item-5" data-anim="true">
+<text x="80" y="560" font-family="Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#E53E3E">05</text>
+      <text x="200" y="550" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#1A202C">组件库</text>
+      <text x="200" y="580" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#718096">按钮、卡片、表格、图表</text>
+    </g>
+  </g>
+
+  <g id="sidebar">
+    <rect x="800" y="120" width="400" height="500" fill="#1A202C" />
+    <text x="1000" y="300" font-family="Helvetica, Arial, sans-serif" font-size="120" font-weight="700" fill="#E53E3E" text-anchor="middle">02</text>
+    <text x="1000" y="380" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#FFFFFF" text-anchor="middle">CONTENTS</text>
+    <line x1="850" y1="400" x2="1150" y2="400" stroke="#E53E3E" stroke-width="2" />
+    <text x="1000" y="440" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#A0AEC0" text-anchor="middle">5 SECTIONS</text>
+    <text x="1000" y="470" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#A0AEC0" text-anchor="middle">8 PAGES</text>
+  </g>
+
+  <g id="footer">
+    <text x="1200" y="694" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#A0AEC0">02</text>
+    <line x1="80" y1="694" x2="120" y2="694" stroke="#A0AEC0" stroke-width="0.5" />
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="#1A1A1A" />
+    <rect x="0" y="0" width="1280" height="8" fill="#FF0000" />
+    <rect x="0" y="712" width="1280" height="8" fill="#FF0000" />
+  </g>
+
+  <g id="title-header-bar" data-anim="true">
+<rect x="40" y="40" width="1200" height="60" fill="#FF0000" />
+    <text x="640" y="80" font-family="Impact, Arial Black, sans-serif" font-size="28" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="8">BRUTALIST · NEWSPAPER</text>
+  </g>
+
+  <g id="title-main-title" data-anim="true">
+<text x="80" y="200" font-family="Impact, Arial Black, sans-serif" font-size="96" font-weight="900" fill="#FFFFFF" letter-spacing="-2">RAW</text>
+    <text x="80" y="310" font-family="Impact, Arial Black, sans-serif" font-size="96" font-weight="900" fill="#FF0000" letter-spacing="-2">DESIGN</text>
+    <text x="80" y="420" font-family="Impact, Arial Black, sans-serif" font-size="96" font-weight="900" fill="#FFFFFF" letter-spacing="-2">POWER</text>
+  </g>
+
+  <g id="card-subtitle" data-anim="true">
+<rect x="80" y="460" width="400" height="4" fill="#FF0000" />
+    <text x="80" y="500" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#CCCCCC">打破常规，重塑视觉语言</text>
+    <text x="80" y="540" font-family="Arial, sans-serif" font-size="16" fill="#888888">2026 年度设计趋势报告</text>
+  </g>
+
+  <g id="card-edition-info" data-anim="true">
+<rect x="900" y="460" width="300" height="120" fill="#333333" />
+    <text x="1050" y="500" font-family="Impact, Arial Black, sans-serif" font-size="48" font-weight="900" fill="#FF0000" text-anchor="middle">01</text>
+    <text x="1050" y="540" font-family="Arial, sans-serif" font-size="14" fill="#CCCCCC" text-anchor="middle">EDITION 2026</text>
+    <text x="1050" y="565" font-family="Arial, sans-serif" font-size="12" fill="#888888" text-anchor="middle">ISSUE NO. 001</text>
+  </g>
+
+  <g id="footer-bar">
+    <rect x="40" y="640" width="1200" height="40" fill="#333333" />
+    <text x="640" y="665" font-family="Arial, sans-serif" font-size="14" fill="#CCCCCC" text-anchor="middle">CONFIDENTIAL · FOR INTERNAL USE ONLY</text>
+  </g>
+</svg>

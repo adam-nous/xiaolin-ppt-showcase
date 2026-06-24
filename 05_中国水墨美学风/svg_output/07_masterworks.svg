@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="masterBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F5F0E8" />
+      <stop offset="100%" stop-color="#E8DFD0" />
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#masterBg)" />
+    <rect x="0" y="0" width="8" height="720" fill="#2C2C2C" />
+    <rect x="1272" y="0" width="8" height="720" fill="#2C2C2C" />
+    <rect x="0" y="0" width="1280" height="8" fill="#2C2C2C" />
+    <rect x="0" y="712" width="1280" height="8" fill="#2C2C2C" />
+  </g>
+
+  <g id="header" data-anim="true">
+<text x="80" y="60" font-family="SimSun, serif" font-size="12" fill="#8B4513" letter-spacing="3">伍</text>
+    <text x="80" y="100" font-family="SimSun, serif" font-size="36" fill="#2C2C2C">作品赏析</text>
+    <line x1="80" y1="115" x2="250" y2="115" stroke="#8B4513" stroke-width="1" />
+  </g>
+
+  <g id="masterworks">
+    <g id="work-1">
+      <rect x="80" y="150" width="360" height="250" fill="#FFFFFF" opacity="0.5" />
+      <rect x="80" y="150" width="360" height="200" fill="#2C2C2C" opacity="0.05" />
+      <text x="260" y="250" font-family="SimSun, serif" font-size="48" fill="#2C2C2C" opacity="0.1" text-anchor="middle">山水</text>
+      <text x="100" y="380" font-family="SimSun, serif" font-size="18" fill="#2C2C2C">《千里江山图》</text>
+      <text x="100" y="405" font-family="Microsoft YaHei, sans-serif" font-size="13" fill="#6B6B6B">北宋 · 王希孟</text>
+    </g>
+
+    <g id="work-2">
+      <rect x="460" y="150" width="360" height="250" fill="#FFFFFF" opacity="0.5" />
+      <rect x="460" y="150" width="360" height="200" fill="#2C2C2C" opacity="0.05" />
+      <text x="640" y="250" font-family="SimSun, serif" font-size="48" fill="#2C2C2C" opacity="0.1" text-anchor="middle">花鸟</text>
+      <text x="480" y="380" font-family="SimSun, serif" font-size="18" fill="#2C2C2C">《写生珍禽图》</text>
+      <text x="480" y="405" font-family="Microsoft YaHei, sans-serif" font-size="13" fill="#6B6B6B">五代 · 黄筌</text>
+    </g>
+
+    <g id="work-3">
+      <rect x="840" y="150" width="360" height="250" fill="#FFFFFF" opacity="0.5" />
+      <rect x="840" y="150" width="360" height="200" fill="#2C2C2C" opacity="0.05" />
+      <text x="1020" y="250" font-family="SimSun, serif" font-size="48" fill="#2C2C2C" opacity="0.1" text-anchor="middle">人物</text>
+      <text x="860" y="380" font-family="SimSun, serif" font-size="18" fill="#2C2C2C">《韩熙载夜宴图》</text>
+      <text x="860" y="405" font-family="Microsoft YaHei, sans-serif" font-size="13" fill="#6B6B6B">五代 · 顾闳中</text>
+    </g>
+  </g>
+
+  <g id="contemporary">
+    <rect x="80" y="430" width="1120" height="150" fill="#2C2C2C" opacity="0.03" />
+    <text x="100" y="470" font-family="SimSun, serif" font-size="18" fill="#2C2C2C">当代水墨</text>
+    <line x1="100" y1="480" x2="220" y2="480" stroke="#8B4513" stroke-width="1" />
+    <text x="100" y="510" font-family="Microsoft YaHei, sans-serif" font-size="14" fill="#4A4A4A">• 吴冠中：将水墨与油画融合，创造独特的点线面美学</text>
+    <text x="100" y="535" font-family="Microsoft YaHei, sans-serif" font-size="14" fill="#4A4A4A">• 赵无极：抽象水墨，将东方意境与西方抽象结合</text>
+    <text x="100" y="560" font-family="Microsoft YaHei, sans-serif" font-size="14" fill="#4A4A4A">• 刘国松：水墨创新，开拓现代水墨新境界</text>
+  </g>
+
+  <g id="footer">
+    <text x="1200" y="694" text-anchor="end" font-family="SimSun, serif" font-size="11" fill="#8B8B8B">07</text>
+    <line x1="80" y1="694" x2="120" y2="694" stroke="#8B8B8B" stroke-width="0.5" />
+  </g>
+</svg>

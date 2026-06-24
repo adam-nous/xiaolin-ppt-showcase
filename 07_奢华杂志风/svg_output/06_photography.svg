@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="photoBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1A1A2E" />
+      <stop offset="100%" stop-color="#0F0F1A" />
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#photoBg)" />
+    <rect x="0" y="0" width="1280" height="3" fill="#D4AF37" />
+    <rect x="0" y="717" width="1280" height="3" fill="#D4AF37" />
+    <rect x="0" y="0" width="3" height="720" fill="#D4AF37" />
+    <rect x="1277" y="0" width="3" height="720" fill="#D4AF37" />
+  </g>
+
+  <g id="header" data-anim="true">
+<text x="80" y="60" font-family="Georgia, serif" font-size="12" fill="#D4AF37" letter-spacing="4">04</text>
+    <text x="80" y="100" font-family="Georgia, serif" font-size="36" fill="#FFFFFF">图像处理</text>
+    <line x1="80" y1="115" x2="250" y2="115" stroke="#D4AF37" stroke-width="2" />
+  </g>
+
+  <g id="hero-photo-styles" data-anim="true">
+<g id="style-1">
+      <rect x="80" y="150" width="360" height="250" fill="#2A2A3E" />
+      <text x="260" y="250" font-family="Georgia, serif" font-size="24" fill="#D4AF37" text-anchor="middle">黑白摄影</text>
+      <text x="260" y="280" font-family="Georgia, serif" font-size="14" fill="#B8A080" text-anchor="middle">经典、永恒、高雅</text>
+      <text x="260" y="310" font-family="Georgia, serif" font-size="12" fill="#8A7A6A" text-anchor="middle">适用于：品牌形象、产品展示</text>
+    </g>
+
+    <g id="style-2">
+      <rect x="460" y="150" width="360" height="250" fill="#2A2A3E" />
+      <text x="640" y="250" font-family="Georgia, serif" font-size="24" fill="#D4AF37" text-anchor="middle">质感光影</text>
+      <text x="640" y="280" font-family="Georgia, serif" font-size="14" fill="#B8A080" text-anchor="middle">细腻、精致、奢华</text>
+      <text x="640" y="310" font-family="Georgia, serif" font-size="12" fill="#8A7A6A" text-anchor="middle">适用于：材质展示、工艺细节</text>
+    </g>
+
+    <g id="style-3">
+      <rect x="840" y="150" width="360" height="250" fill="#2A2A3E" />
+      <text x="1020" y="250" font-family="Georgia, serif" font-size="24" fill="#D4AF37" text-anchor="middle">留白构图</text>
+      <text x="1020" y="280" font-family="Georgia, serif" font-size="14" fill="#B8A080" text-anchor="middle">简约、大气、高端</text>
+      <text x="1020" y="310" font-family="Georgia, serif" font-size="12" fill="#8A7A6A" text-anchor="middle">适用于：品牌故事、理念传达</text>
+    </g>
+  </g>
+
+  <g id="hero-image-treatment" data-anim="true">
+<rect x="80" y="430" width="1120" height="150" fill="#D4AF37" opacity="0.03" />
+    <text x="100" y="470" font-family="Georgia, serif" font-size="18" fill="#D4AF37">图像处理技巧</text>
+    <line x1="100" y1="480" x2="250" y2="480" stroke="#D4AF37" stroke-width="1" />
+    <text x="100" y="510" font-family="Georgia, serif" font-size="14" fill="#B8A080">• 使用黑白滤镜增强质感与高级感</text>
+    <text x="100" y="540" font-family="Georgia, serif" font-size="14" fill="#B8A080">• 添加金色叠加层（opacity: 10-20%）提升奢华感</text>
+    <text x="100" y="570" font-family="Georgia, serif" font-size="14" fill="#B8A080">• 保持足够的留白，让图像呼吸</text>
+  </g>
+
+  <g id="footer">
+    <text x="1200" y="694" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#8A7A6A">06</text>
+    <line x1="80" y1="694" x2="120" y2="694" stroke="#8A7A6A" stroke-width="0.5" />
+  </g>
+</svg>

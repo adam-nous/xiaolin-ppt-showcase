@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="inkBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F5F0E8" />
+      <stop offset="100%" stop-color="#E8DFD0" />
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#inkBg)" />
+    <rect x="0" y="0" width="8" height="720" fill="#2C2C2C" />
+    <rect x="1272" y="0" width="8" height="720" fill="#2C2C2C" />
+    <rect x="0" y="0" width="1280" height="8" fill="#2C2C2C" />
+    <rect x="0" y="712" width="1280" height="8" fill="#2C2C2C" />
+  </g>
+
+  <g id="hero-ink-wash" data-anim="true">
+<ellipse cx="900" cy="300" rx="300" ry="200" fill="#2C2C2C" opacity="0.03" />
+    <ellipse cx="200" cy="500" rx="250" ry="150" fill="#2C2C2C" opacity="0.02" />
+  </g>
+
+  <g id="title-marks" data-anim="true">
+<rect x="80" y="120" width="60" height="3" fill="#8B4513" />
+    <text x="80" y="160" font-family="SimSun, serif" font-size="14" fill="#8B4513" letter-spacing="4">水墨 · 美学</text>
+  </g>
+
+  <g id="title-main" data-anim="true">
+<text x="80" y="300" font-family="SimSun, serif" font-size="72" font-weight="700" fill="#2C2C2C">东方</text>
+    <text x="80" y="390" font-family="SimSun, serif" font-size="72" font-weight="700" fill="#2C2C2C">美学</text>
+    <text x="80" y="480" font-family="SimSun, serif" font-size="72" font-weight="700" fill="#8B4513">意境</text>
+  </g>
+
+  <g id="card-subtitle" data-anim="true">
+<line x1="80" y1="520" x2="160" y2="520" stroke="#2C2C2C" stroke-width="1" />
+    <text x="80" y="550" font-family="Microsoft YaHei, sans-serif" font-size="18" fill="#4A4A4A">传统水墨与现代设计的融合</text>
+    <text x="80" y="580" font-family="Microsoft YaHei, sans-serif" font-size="14" fill="#6B6B6B">2026 年度文化传承</text>
+  </g>
+
+  <g id="ink-seal">
+    <rect x="1000" y="400" width="120" height="120" fill="#C41E3A" opacity="0.8" />
+    <text x="1060" y="460" font-family="SimSun, serif" font-size="36" font-weight="700" fill="#FFFFFF" text-anchor="middle">墨</text>
+    <text x="1060" y="500" font-family="SimSun, serif" font-size="36" font-weight="700" fill="#FFFFFF" text-anchor="middle">韵</text>
+  </g>
+
+  <g id="footer">
+    <text x="1200" y="694" text-anchor="end" font-family="SimSun, serif" font-size="11" fill="#8B8B8B">01</text>
+    <line x1="80" y1="694" x2="120" y2="694" stroke="#8B8B8B" stroke-width="0.5" />
+  </g>
+</svg>

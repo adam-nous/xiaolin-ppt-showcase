@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="#1A1A1A" />
+    <rect x="0" y="0" width="1280" height="8" fill="#FF0000" />
+    <rect x="0" y="712" width="1280" height="8" fill="#FF0000" />
+  </g>
+
+  <g id="header" data-anim="true">
+<rect x="40" y="40" width="1200" height="60" fill="#FF0000" />
+    <text x="640" y="80" font-family="Impact, Arial Black, sans-serif" font-size="28" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="8">COLOR STRATEGY</text>
+  </g>
+
+  <g id="title-main-title" data-anim="true">
+<text x="80" y="180" font-family="Impact, Arial Black, sans-serif" font-size="72" font-weight="900" fill="#FFFFFF">HIGH</text>
+    <text x="80" y="270" font-family="Impact, Arial Black, sans-serif" font-size="72" font-weight="900" fill="#FF0000">CONTRAST</text>
+  </g>
+
+  <g id="contrast-demo">
+    <rect x="80" y="310" width="560" height="200" fill="#FFFFFF" />
+    <text x="360" y="420" font-family="Impact, Arial Black, sans-serif" font-size="48" font-weight="900" fill="#1A1A1A" text-anchor="middle">黑与白</text>
+    
+    <rect x="640" y="310" width="560" height="200" fill="#FF0000" />
+    <text x="920" y="420" font-family="Impact, Arial Black, sans-serif" font-size="48" font-weight="900" fill="#FFFFFF" text-anchor="middle">红与黑</text>
+  </g>
+
+  <g id="color-rules">
+    <rect x="80" y="540" width="1120" height="120" fill="#333333" />
+    <text x="100" y="580" font-family="Impact, Arial Black, sans-serif" font-size="18" font-weight="900" fill="#FF0000">COLOR RULES</text>
+    <text x="100" y="610" font-family="Arial, sans-serif" font-size="14" fill="#CCCCCC">• 主色调：黑色 #1A1A1A（背景） + 白色 #FFFFFF（文字）</text>
+    <text x="100" y="635" font-family="Arial, sans-serif" font-size="14" fill="#CCCCCC">• 强调色：红色 #FF0000（关键信息、按钮、分隔线）</text>
+    <text x="100" y="660" font-family="Arial, sans-serif" font-size="14" fill="#CCCCCC">• 辅助色：灰色 #333333（卡片、区块背景）</text>
+  </g>
+
+  <g id="sidebar">
+    <rect x="980" y="140" width="220" height="150" fill="#333333" />
+    <text x="1090" y="200" font-family="Impact, Arial Black, sans-serif" font-size="80" font-weight="900" fill="#FF0000" text-anchor="middle">05</text>
+    <text x="1090" y="260" font-family="Arial, sans-serif" font-size="16" fill="#CCCCCC" text-anchor="middle">COLOR</text>
+  </g>
+
+  <g id="footer-bar">
+    <rect x="40" y="640" width="1200" height="40" fill="#333333" />
+    <text x="640" y="665" font-family="Arial, sans-serif" font-size="14" fill="#CCCCCC" text-anchor="middle">BRUTALIST NEWSPAPER · 2026</text>
+  </g>
+</svg>

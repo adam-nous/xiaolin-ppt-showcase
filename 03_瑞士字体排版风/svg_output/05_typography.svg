@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="typoBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FAFAFA" />
+      <stop offset="100%" stop-color="#F5F5F5" />
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#typoBg)" />
+    <line x1="80" y1="0" x2="80" y2="720" stroke="#E0E0E0" stroke-width="0.5" />
+    <line x1="400" y1="0" x2="400" y2="720" stroke="#E0E0E0" stroke-width="0.5" />
+    <line x1="720" y1="0" x2="720" y2="720" stroke="#E0E0E0" stroke-width="0.5" />
+    <line x1="1040" y1="0" x2="1040" y2="720" stroke="#E0E0E0" stroke-width="0.5" />
+  </g>
+
+  <g id="header" data-anim="true">
+<text x="80" y="60" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#E53E3E" letter-spacing="3">TYPOGRAPHY</text>
+    <text x="80" y="100" font-family="Helvetica, Arial, sans-serif" font-size="36" font-weight="700" fill="#1A202C">字体规范</text>
+    <line x1="80" y1="115" x2="300" y2="115" stroke="#E53E3E" stroke-width="2" />
+  </g>
+
+  <g id="type-scale">
+    <g id="type-1">
+      <text x="80" y="180" font-family="Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#1A202C">Heading 1</text>
+      <text x="80" y="200" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#718096">48px / Bold / Helvetica</text>
+    </g>
+
+    <g id="type-2">
+      <text x="80" y="260" font-family="Helvetica, Arial, sans-serif" font-size="36" font-weight="700" fill="#1A202C">Heading 2</text>
+      <text x="80" y="280" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#718096">36px / Bold / Helvetica</text>
+    </g>
+
+    <g id="type-3">
+      <text x="80" y="340" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#1A202C">Heading 3</text>
+      <text x="80" y="360" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#718096">24px / Bold / Helvetica</text>
+    </g>
+
+    <g id="type-4">
+      <text x="80" y="420" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#1A202C">Body Text</text>
+      <text x="80" y="440" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#718096">18px / Regular / Helvetica</text>
+    </g>
+
+    <g id="type-5">
+      <text x="80" y="500" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#4A5568">Caption Text</text>
+      <text x="80" y="520" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#718096">14px / Regular / Helvetica</text>
+    </g>
+
+    <g id="type-6">
+      <text x="80" y="580" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#718096">Small Text</text>
+      <text x="80" y="600" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#718096">12px / Regular / Helvetica</text>
+    </g>
+  </g>
+
+  <g id="type-weights">
+    <rect x="700" y="150" width="500" height="400" fill="#1A202C" />
+    <text x="720" y="190" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#E53E3E">FONT WEIGHTS</text>
+    <line x1="720" y1="200" x2="900" y2="200" stroke="#E53E3E" stroke-width="1" />
+    <text x="720" y="240" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="100" fill="#FFFFFF">Light 100</text>
+    <text x="720" y="280" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="300" fill="#FFFFFF">Regular 300</text>
+    <text x="720" y="320" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="400" fill="#FFFFFF">Normal 400</text>
+    <text x="720" y="360" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">Bold 700</text>
+    <text x="720" y="400" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="900" fill="#FFFFFF">Black 900</text>
+    <text x="720" y="460" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#A0AEC0">使用无衬线字体确保可读性</text>
+    <text x="720" y="490" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#A0AEC0">通过字重变化创造层次感</text>
+  </g>
+
+  <g id="footer">
+    <text x="1200" y="694" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#A0AEC0">05</text>
+    <line x1="80" y1="694" x2="120" y2="694" stroke="#A0AEC0" stroke-width="0.5" />
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1B2A4A" />
+      <stop offset="100%" stop-color="#0F1A2E" />
+    </linearGradient>
+  </defs>
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#bg)" />
+    <rect x="0" y="0" width="1280" height="4" fill="#C9A96E" />
+    <rect x="0" y="716" width="1280" height="4" fill="#C9A96E" />
+    <line x1="0" y1="180" x2="1280" y2="180" stroke="#1B3A5C" stroke-width="0.3" />
+    <line x1="0" y1="360" x2="1280" y2="360" stroke="#1B3A5C" stroke-width="0.3" />
+    <line x1="0" y1="540" x2="1280" y2="540" stroke="#1B3A5C" stroke-width="0.3" />
+  </g>
+  <g id="header" data-anim="true">
+<text x="80" y="80" font-family="Georgia, serif" font-size="14" fill="#C9A96E" letter-spacing="3">REASONIX · REMOTE WORK</text>
+    <line x1="80" y1="90" x2="280" y2="90" stroke="#C9A96E" stroke-width="1" />
+  </g>
+  <g id="title" data-anim="true">
+<text x="80" y="250" font-family="Georgia, serif" font-size="72" font-weight="700" fill="#ffffff">远程办公</text>
+    <text x="80" y="340" font-family="Georgia, serif" font-size="72" font-weight="700" fill="#ffffff">的</text>
+    <text x="80" y="430" font-family="Georgia, serif" font-size="72" font-weight="700" fill="#C9A96E">未来</text>
+  </g>
+  <g id="card-subtitle" data-anim="true">
+<line x1="80" y1="470" x2="180" y2="470" stroke="#C9A96E" stroke-width="2" />
+    <text x="80" y="510" font-family="Arial, sans-serif" font-size="20" fill="#A0B4D0">企业管理 · 远程协作 · 未来趋势</text>
+    <text x="80" y="545" font-family="Arial, sans-serif" font-size="16" fill="#6B8BB8">自动动画 · 8页完整内容</text>
+  </g>
+  <g id="badge">
+    <rect x="900" y="100" width="300" height="60" rx="30" fill="#C9A96E" opacity="0.9" />
+    <text x="1050" y="140" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#1a1a2e" text-anchor="middle">成品案例 2</text>
+  </g>
+  <g id="footer">
+    <text x="1200" y="694" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#6B8BB8">01 / 08</text>
+  </g>
+</svg>

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F7FAFC" />
+      <stop offset="100%" stop-color="#EDF2F7" />
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#bgGrad)" />
+    <rect x="0" y="0" width="6" height="720" fill="#1A365D" />
+  </g>
+
+  <g id="header" data-anim="true">
+<text x="80" y="60" font-family="Consolas, monospace" font-size="12" font-weight="700" fill="#3182CE" letter-spacing="3">BACKGROUND</text>
+    <text x="80" y="100" font-family="Georgia, serif" font-size="36" font-weight="700" fill="#1A365D">项目背景与目标</text>
+    <line x1="80" y1="115" x2="400" y2="115" stroke="#3182CE" stroke-width="2" />
+  </g>
+
+  <g id="card-content-left" data-anim="true">
+<rect x="80" y="160" width="520" height="200" fill="#FFFFFF" rx="8" stroke="#E2E8F0" stroke-width="1" />
+    <rect x="80" y="160" width="520" height="6" fill="#1A365D" rx="8" />
+    <text x="100" y="200" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#1A365D">业务挑战</text>
+    <text x="100" y="230" font-family="Arial, sans-serif" font-size="14" fill="#4A5568">• 现有系统性能瓶颈，响应时间 &gt; 500ms</text>
+    <text x="100" y="255" font-family="Arial, sans-serif" font-size="14" fill="#4A5568">• 单体架构难以扩展，部署周期长</text>
+    <text x="100" y="280" font-family="Arial, sans-serif" font-size="14" fill="#4A5568">• 数据一致性问题频发</text>
+    <text x="100" y="305" font-family="Arial, sans-serif" font-size="14" fill="#4A5568">• 运维成本持续上升</text>
+  </g>
+
+  <g id="card-content-right" data-anim="true">
+<rect x="640" y="160" width="560" height="200" fill="#FFFFFF" rx="8" stroke="#E2E8F0" stroke-width="1" />
+    <rect x="640" y="160" width="560" height="6" fill="#3182CE" rx="8" />
+    <text x="660" y="200" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#1A365D">核心目标</text>
+    <text x="660" y="230" font-family="Arial, sans-serif" font-size="14" fill="#4A5568">• 响应时间降低至 &lt; 100ms</text>
+    <text x="660" y="255" font-family="Arial, sans-serif" font-size="14" fill="#4A5568">• 支持 10x 流量增长</text>
+    <text x="660" y="280" font-family="Arial, sans-serif" font-size="14" fill="#4A5568">• 实现零停机部署</text>
+    <text x="660" y="305" font-family="Arial, sans-serif" font-size="14" fill="#4A5568">• 运维成本降低 40%</text>
+  </g>
+
+  <g id="kpi-metrics" data-anim="true">
+<rect x="80" y="400" width="260" height="120" fill="#1A365D" rx="8" />
+    <text x="210" y="450" font-family="Georgia, serif" font-size="48" font-weight="700" fill="#FFFFFF" text-anchor="middle">500ms</text>
+    <text x="210" y="490" font-family="Arial, sans-serif" font-size="14" fill="#A0C4E8" text-anchor="middle">当前响应时间</text>
+
+    <rect x="380" y="400" width="260" height="120" fill="#3182CE" rx="8" />
+    <text x="510" y="450" font-family="Georgia, serif" font-size="48" font-weight="700" fill="#FFFFFF" text-anchor="middle">&lt;100ms</text>
+    <text x="510" y="490" font-family="Arial, sans-serif" font-size="14" fill="#A0C4E8" text-anchor="middle">目标响应时间</text>
+
+    <rect x="680" y="400" width="260" height="120" fill="#2A4A7F" rx="8" />
+    <text x="810" y="450" font-family="Georgia, serif" font-size="48" font-weight="700" fill="#FFFFFF" text-anchor="middle">10x</text>
+    <text x="810" y="490" font-family="Arial, sans-serif" font-size="14" fill="#A0C4E8" text-anchor="middle">流量扩展能力</text>
+
+    <rect x="980" y="400" width="220" height="120" fill="#4A6A9F" rx="8" />
+    <text x="1090" y="450" font-family="Georgia, serif" font-size="48" font-weight="700" fill="#FFFFFF" text-anchor="middle">40%</text>
+    <text x="1090" y="490" font-family="Arial, sans-serif" font-size="14" fill="#A0C4E8" text-anchor="middle">成本降低</text>
+  </g>
+
+  <g id="footer">
+    <text x="1200" y="694" text-anchor="end" font-family="Consolas, monospace" font-size="11" fill="#A0AEC0">03</text>
+    <line x1="80" y1="694" x2="120" y2="694" stroke="#A0AEC0" stroke-width="0.5" />
+  </g>
+</svg>

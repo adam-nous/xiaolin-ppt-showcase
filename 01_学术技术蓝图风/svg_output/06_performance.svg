@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <defs>
+    <linearGradient id="perfBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F7FAFC" />
+      <stop offset="100%" stop-color="#EDF2F7" />
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="url(#perfBg)" />
+    <rect x="0" y="0" width="6" height="720" fill="#1A365D" />
+  </g>
+
+  <g id="header" data-anim="true">
+<text x="80" y="60" font-family="Consolas, monospace" font-size="12" font-weight="700" fill="#3182CE" letter-spacing="3">PERFORMANCE</text>
+    <text x="80" y="100" font-family="Georgia, serif" font-size="36" font-weight="700" fill="#1A365D">性能指标与优化</text>
+    <line x1="80" y1="115" x2="380" y2="115" stroke="#3182CE" stroke-width="2" />
+  </g>
+
+  <g id="metrics-grid" data-anim="true">
+<g id="metric-1" data-anim="true">
+<rect x="80" y="150" width="260" height="140" fill="#FFFFFF" rx="8" stroke="#E2E8F0" stroke-width="1" />
+      <text x="210" y="200" font-family="Georgia, serif" font-size="48" font-weight="700" fill="#3182CE" text-anchor="middle">99.9%</text>
+      <text x="210" y="230" font-family="Consolas, monospace" font-size="14" fill="#718096" text-anchor="middle">UPTIME</text>
+      <text x="210" y="260" font-family="Arial, sans-serif" font-size="13" fill="#4A5568" text-anchor="middle">系统可用性</text>
+    </g>
+
+    <g id="metric-2" data-anim="true">
+<rect x="380" y="150" width="260" height="140" fill="#FFFFFF" rx="8" stroke="#E2E8F0" stroke-width="1" />
+      <text x="510" y="200" font-family="Georgia, serif" font-size="48" font-weight="700" fill="#1A365D" text-anchor="middle">45ms</text>
+      <text x="510" y="230" font-family="Consolas, monospace" font-size="14" fill="#718096" text-anchor="middle">P95 LATENCY</text>
+      <text x="510" y="260" font-family="Arial, sans-serif" font-size="13" fill="#4A5568" text-anchor="middle">响应延迟</text>
+    </g>
+
+    <g id="metric-3" data-anim="true">
+<rect x="680" y="150" width="260" height="140" fill="#FFFFFF" rx="8" stroke="#E2E8F0" stroke-width="1" />
+      <text x="810" y="200" font-family="Georgia, serif" font-size="48" font-weight="700" fill="#2A4A7F" text-anchor="middle">10K</text>
+      <text x="810" y="230" font-family="Consolas, monospace" font-size="14" fill="#718096" text-anchor="middle">QPS</text>
+      <text x="810" y="260" font-family="Arial, sans-serif" font-size="13" fill="#4A5568" text-anchor="middle">每秒请求处理</text>
+    </g>
+
+    <g id="metric-4" data-anim="true">
+<rect x="980" y="150" width="220" height="140" fill="#FFFFFF" rx="8" stroke="#E2E8F0" stroke-width="1" />
+      <text x="1090" y="200" font-family="Georgia, serif" font-size="48" font-weight="700" fill="#4A6A9F" text-anchor="middle">3x</text>
+      <text x="1090" y="230" font-family="Consolas, monospace" font-size="14" fill="#718096" text-anchor="middle">THROUGHPUT</text>
+      <text x="1090" y="260" font-family="Arial, sans-serif" font-size="13" fill="#4A5568" text-anchor="middle">吞吐量提升</text>
+    </g>
+  </g>
+
+  <g id="card-optimization" data-anim="true">
+<rect x="80" y="330" width="1120" height="250" fill="#1A365D" rx="8" />
+    <text x="100" y="370" font-family="Consolas, monospace" font-size="14" font-weight="700" fill="#3182CE">OPTIMIZATION STRATEGIES</text>
+    <line x1="100" y1="380" x2="380" y2="380" stroke="#3182CE" stroke-width="1" />
+    
+    <g id="opt-1">
+      <rect x="100" y="400" width="320" height="60" fill="#0F1F3D" rx="4" />
+      <text x="120" y="430" font-family="Consolas, monospace" font-size="14" font-weight="700" fill="#3182CE">缓存优化</text>
+      <text x="120" y="450" font-family="Arial, sans-serif" font-size="12" fill="#A0C4E8">多级缓存策略，命中率 &gt; 95%</text>
+    </g>
+
+    <g id="opt-2">
+      <rect x="440" y="400" width="320" height="60" fill="#0F1F3D" rx="4" />
+      <text x="460" y="430" font-family="Consolas, monospace" font-size="14" font-weight="700" fill="#3182CE">数据库优化</text>
+      <text x="460" y="450" font-family="Arial, sans-serif" font-size="12" fill="#A0C4E8">索引优化 + 查询重写</text>
+    </g>
+
+    <g id="opt-3">
+      <rect x="780" y="400" width="320" height="60" fill="#0F1F3D" rx="4" />
+      <text x="800" y="430" font-family="Consolas, monospace" font-size="14" font-weight="700" fill="#3182CE">异步处理</text>
+      <text x="800" y="450" font-family="Arial, sans-serif" font-size="12" fill="#A0C4E8">消息队列 + 事件驱动</text>
+    </g>
+
+    <g id="opt-4">
+      <rect x="100" y="480" width="320" height="60" fill="#0F1F3D" rx="4" />
+      <text x="120" y="510" font-family="Consolas, monospace" font-size="14" font-weight="700" fill="#3182CE">连接池管理</text>
+      <text x="120" y="530" font-family="Arial, sans-serif" font-size="12" fill="#A0C4E8">动态连接池，自动扩缩容</text>
+    </g>
+
+    <g id="opt-5">
+      <rect x="440" y="480" width="320" height="60" fill="#0F1F3D" rx="4" />
+      <text x="460" y="510" font-family="Consolas, monospace" font-size="14" font-weight="700" fill="#3182CE">负载均衡</text>
+      <text x="460" y="530" font-family="Arial, sans-serif" font-size="12" fill="#A0C4E8">智能路由 + 健康检查</text>
+    </g>
+
+    <g id="opt-6">
+      <rect x="780" y="480" width="320" height="60" fill="#0F1F3D" rx="4" />
+      <text x="800" y="510" font-family="Consolas, monospace" font-size="14" font-weight="700" fill="#3182CE">资源调度</text>
+      <text x="800" y="530" font-family="Arial, sans-serif" font-size="12" fill="#A0C4E8">K8s HPA 自动扩缩</text>
+    </g>
+  </g>
+
+  <g id="footer">
+    <text x="1200" y="694" text-anchor="end" font-family="Consolas, monospace" font-size="11" fill="#A0AEC0">06</text>
+    <line x1="80" y1="694" x2="120" y2="694" stroke="#A0AEC0" stroke-width="0.5" />
+  </g>
+</svg>

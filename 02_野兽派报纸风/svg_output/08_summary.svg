@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.2 685.8" width="1219.2" height="685.8">
+  <g id="bg">
+    <rect x="0" y="0" width="1219.2" height="685.8" fill="#1A1A1A" />
+    <rect x="0" y="0" width="1280" height="8" fill="#FF0000" />
+    <rect x="0" y="712" width="1280" height="8" fill="#FF0000" />
+  </g>
+
+  <g id="header" data-anim="true">
+<rect x="40" y="40" width="1200" height="60" fill="#FF0000" />
+    <text x="640" y="80" font-family="Impact, Arial Black, sans-serif" font-size="28" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="8">SUMMARY</text>
+  </g>
+
+  <g id="title-main-title" data-anim="true">
+<text x="640" y="200" font-family="Impact, Arial Black, sans-serif" font-size="72" font-weight="900" fill="#FFFFFF" text-anchor="middle">野兽派设计</text>
+    <text x="640" y="290" font-family="Impact, Arial Black, sans-serif" font-size="48" font-weight="900" fill="#FF0000" text-anchor="middle">打破常规，重塑视觉</text>
+  </g>
+
+  <g id="key-takeaways" data-anim="true">
+<rect x="80" y="340" width="1120" height="200" fill="#333333" />
+    <text x="100" y="380" font-family="Impact, Arial Black, sans-serif" font-size="18" font-weight="900" fill="#FF0000">KEY TAKEAWAYS</text>
+    <line x1="100" y1="390" x2="300" y2="390" stroke="#FF0000" stroke-width="2" />
+    <text x="100" y="420" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF">• 粗犷、原始、有力的设计语言</text>
+    <text x="100" y="450" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF">• 高对比度色彩策略（黑、白、红）</text>
+    <text x="100" y="480" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF">• 大字号、粗字体、无衬线排版</text>
+    <text x="100" y="510" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF">• 打破常规，创造视觉冲击力</text>
+  </g>
+
+  <g id="cta">
+    <rect x="80" y="570" width="1120" height="80" fill="#FF0000" />
+    <text x="640" y="620" font-family="Impact, Arial Black, sans-serif" font-size="36" font-weight="900" fill="#FFFFFF" text-anchor="middle">开始你的野兽派设计之旅</text>
+  </g>
+
+  <g id="contact">
+    <text x="640" y="690" font-family="Arial, sans-serif" font-size="16" fill="#CCCCCC" text-anchor="middle">contact@brutalist-design.com | github.com/brutalist</text>
+  </g>
+
+  <g id="sidebar">
+    <rect x="980" y="140" width="220" height="0" fill="#333333" />
+    <text x="1090" y="200" font-family="Impact, Arial Black, sans-serif" font-size="80" font-weight="900" fill="#FF0000" text-anchor="middle">08</text>
+  </g>
+
+  <g id="footer-bar">
+    <rect x="40" y="640" width="1200" height="40" fill="#333333" />
+    <text x="640" y="665" font-family="Arial, sans-serif" font-size="14" fill="#CCCCCC" text-anchor="middle">BRUTALIST NEWSPAPER · 2026</text>
+  </g>
+</svg>
