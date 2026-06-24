@@ -1,0 +1,200 @@
+[
+  {
+    "name": "AI时代的学习革命",
+    "en": "AI Learning Revolution",
+    "style": "毛玻璃SaaS风",
+    "color": "#667eea",
+    "desc": "教育科技 · AI · 全动效",
+    "cover": "00_成品_AI学习革命/slides/slide_01.jpg",
+    "slides": [
+      "00_成品_AI学习革命/slides/slide_01.jpg",
+      "00_成品_AI学习革命/slides/slide_01.png",
+      "00_成品_AI学习革命/slides/slide_02.jpg",
+      "00_成品_AI学习革命/slides/slide_03.jpg",
+      "00_成品_AI学习革命/slides/slide_04.jpg",
+      "00_成品_AI学习革命/slides/slide_05.jpg",
+      "00_成品_AI学习革命/slides/slide_07.jpg",
+      "00_成品_AI学习革命/slides/slide_08.jpg"
+    ]
+  },
+  {
+    "name": "远程办公的未来",
+    "en": "Future of Remote Work",
+    "style": "顶级咨询风",
+    "color": "#C9A96E",
+    "desc": "企业管理 · 远程协作",
+    "cover": "00_成品_远程办公/slides/slide_01.png",
+    "slides": [
+      "00_成品_远程办公/slides/slide_01.png",
+      "00_成品_远程办公/slides/slide_02.png",
+      "00_成品_远程办公/slides/slide_03.png",
+      "00_成品_远程办公/slides/slide_04.png",
+      "00_成品_远程办公/slides/slide_05.png",
+      "00_成品_远程办公/slides/slide_06.png",
+      "00_成品_远程办公/slides/slide_07.png",
+      "00_成品_远程办公/slides/slide_08.png"
+    ]
+  },
+  {
+    "name": "学术技术蓝图风",
+    "en": "Academic Blueprint",
+    "style": "Academic Blueprint",
+    "color": "#3182CE",
+    "desc": "技术研究 · 学术会议",
+    "cover": "01_学术技术蓝图风/svg_output/01_cover.svg",
+    "slides": [
+      "01_学术技术蓝图风/svg_output/01_cover.svg",
+      "01_学术技术蓝图风/svg_output/02_toc.svg",
+      "01_学术技术蓝图风/svg_output/03_background.svg",
+      "01_学术技术蓝图风/svg_output/04_architecture.svg",
+      "01_学术技术蓝图风/svg_output/05_core_modules.svg",
+      "01_学术技术蓝图风/svg_output/06_performance.svg",
+      "01_学术技术蓝图风/svg_output/07_use_cases.svg",
+      "01_学术技术蓝图风/svg_output/08_summary.svg"
+    ]
+  },
+  {
+    "name": "野兽派报纸风",
+    "en": "Brutalist Newspaper",
+    "style": "Brutalist Newspaper",
+    "color": "#FF0000",
+    "desc": "高冲击力设计",
+    "cover": "02_野兽派报纸风/svg_output/01_cover.svg",
+    "slides": [
+      "02_野兽派报纸风/svg_output/01_cover.svg",
+      "02_野兽派报纸风/svg_output/02_toc.svg",
+      "02_野兽派报纸风/svg_output/03_philosophy.svg",
+      "02_野兽派报纸风/svg_output/04_visual_language.svg",
+      "02_野兽派报纸风/svg_output/05_color_strategy.svg",
+      "02_野兽派报纸风/svg_output/06_typography.svg",
+      "02_野兽派报纸风/svg_output/07_showcase.svg",
+      "02_野兽派报纸风/svg_output/08_summary.svg"
+    ]
+  },
+  {
+    "name": "瑞士字体排版风",
+    "en": "Swiss Typographic",
+    "style": "Swiss Typographic",
+    "color": "#E53E3E",
+    "desc": "极简设计 · 字体排版",
+    "cover": "03_瑞士字体排版风/svg_output/01_cover.svg",
+    "slides": [
+      "03_瑞士字体排版风/svg_output/01_cover.svg",
+      "03_瑞士字体排版风/svg_output/02_toc.svg",
+      "03_瑞士字体排版风/svg_output/03_philosophy.svg",
+      "03_瑞士字体排版风/svg_output/04_grid_system.svg",
+      "03_瑞士字体排版风/svg_output/05_typography.svg",
+      "03_瑞士字体排版风/svg_output/06_color_system.svg",
+      "03_瑞士字体排版风/svg_output/07_components.svg",
+      "03_瑞士字体排版风/svg_output/08_summary.svg"
+    ]
+  },
+  {
+    "name": "毛玻璃SaaS风",
+    "en": "Glassmorphism SaaS",
+    "style": "Glassmorphism SaaS",
+    "color": "#667eea",
+    "desc": "SaaS产品 · 科技公司",
+    "cover": "04_毛玻璃SaaS风/svg_output/01_cover.svg",
+    "slides": [
+      "04_毛玻璃SaaS风/svg_output/01_cover.svg",
+      "04_毛玻璃SaaS风/svg_output/02_toc.svg",
+      "04_毛玻璃SaaS风/svg_output/03_overview.svg",
+      "04_毛玻璃SaaS风/svg_output/04_features.svg",
+      "04_毛玻璃SaaS风/svg_output/05_architecture.svg",
+      "04_毛玻璃SaaS风/svg_output/06_pricing.svg",
+      "04_毛玻璃SaaS风/svg_output/07_growth.svg",
+      "04_毛玻璃SaaS风/svg_output/08_summary.svg"
+    ]
+  },
+  {
+    "name": "中国水墨美学风",
+    "en": "Chinese Ink Aesthetic",
+    "style": "Chinese Ink Aesthetic",
+    "color": "#C41E3A",
+    "desc": "文化传承 · 东方美学",
+    "cover": "05_中国水墨美学风/svg_output/01_cover.svg",
+    "slides": [
+      "05_中国水墨美学风/svg_output/01_cover.svg",
+      "05_中国水墨美学风/svg_output/02_toc.svg",
+      "05_中国水墨美学风/svg_output/03_philosophy.svg",
+      "05_中国水墨美学风/svg_output/04_technique.svg",
+      "05_中国水墨美学风/svg_output/05_artistic_conception.svg",
+      "05_中国水墨美学风/svg_output/06_modern_fusion.svg",
+      "05_中国水墨美学风/svg_output/07_masterworks.svg",
+      "05_中国水墨美学风/svg_output/08_summary.svg"
+    ]
+  },
+  {
+    "name": "顶级咨询风",
+    "en": "Top Consulting",
+    "style": "Top Consulting",
+    "color": "#C9A96E",
+    "desc": "商业咨询 · 战略报告",
+    "cover": "06_顶级咨询风/svg_output/01_cover.svg",
+    "slides": [
+      "06_顶级咨询风/svg_output/01_cover.svg",
+      "06_顶级咨询风/svg_output/02_toc.svg",
+      "06_顶级咨询风/svg_output/03_executive_summary.svg",
+      "06_顶级咨询风/svg_output/04_market_analysis.svg",
+      "06_顶级咨询风/svg_output/05_strategic_framework.svg",
+      "06_顶级咨询风/svg_output/06_implementation.svg",
+      "06_顶级咨询风/svg_output/07_financial_projection.svg",
+      "06_顶级咨询风/svg_output/08_summary.svg"
+    ]
+  },
+  {
+    "name": "奢华杂志风",
+    "en": "Luxury Editorial",
+    "style": "Luxury Editorial",
+    "color": "#D4AF37",
+    "desc": "高端品牌 · 奢侈品",
+    "cover": "07_奢华杂志风/svg_output/01_cover.svg",
+    "slides": [
+      "07_奢华杂志风/svg_output/01_cover.svg",
+      "07_奢华杂志风/svg_output/02_toc.svg",
+      "07_奢华杂志风/svg_output/03_philosophy.svg",
+      "07_奢华杂志风/svg_output/04_visual_language.svg",
+      "07_奢华杂志风/svg_output/05_typography.svg",
+      "07_奢华杂志风/svg_output/06_photography.svg",
+      "07_奢华杂志风/svg_output/07_showcase.svg",
+      "07_奢华杂志风/svg_output/08_summary.svg"
+    ]
+  },
+  {
+    "name": "工程蓝图风",
+    "en": "Engineering Blueprint",
+    "style": "Engineering Blueprint",
+    "color": "#4A90D9",
+    "desc": "技术文档 · 系统架构",
+    "cover": "08_工程蓝图风/svg_output/01_cover.svg",
+    "slides": [
+      "08_工程蓝图风/svg_output/01_cover.svg",
+      "08_工程蓝图风/svg_output/02_toc.svg",
+      "08_工程蓝图风/svg_output/03_system_overview.svg",
+      "08_工程蓝图风/svg_output/04_architecture.svg",
+      "08_工程蓝图风/svg_output/05_detailed_design.svg",
+      "08_工程蓝图风/svg_output/06_specifications.svg",
+      "08_工程蓝图风/svg_output/07_implementation_plan.svg",
+      "08_工程蓝图风/svg_output/08_summary.svg"
+    ]
+  },
+  {
+    "name": "AI时代人的价值在哪里",
+    "en": "Value of Humans in AI Era",
+    "style": "Humanistic Awakening",
+    "color": "#C9A96E",
+    "desc": "人文思考 · AI时代 · 演讲演示",
+    "cover": "09_AI时代人的价值/slides/slide_01.png",
+    "slides": [
+      "09_AI时代人的价值/slides/slide_01.png",
+      "09_AI时代人的价值/slides/slide_02.png",
+      "09_AI时代人的价值/slides/slide_03.png",
+      "09_AI时代人的价值/slides/slide_04.png",
+      "09_AI时代人的价值/slides/slide_05.png",
+      "09_AI时代人的价值/slides/slide_06.png",
+      "09_AI时代人的价值/slides/slide_07.png",
+      "09_AI时代人的价值/slides/slide_08.png"
+    ]
+  }
+]
