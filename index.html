@@ -37,6 +37,49 @@
         .stat:hover { border-color: var(--accent-blue); transform: translateY(-5px); box-shadow: 0 15px 35px rgba(0, 47, 167, 0.3); }
         .stat-num { font-size: 2.2rem; font-weight: 200; color: var(--accent-blue); margin-bottom: 6px; font-family: 'Space Grotesk', sans-serif; }
         .stat-label { color: var(--text-secondary); font-size: 0.8rem; }
+        
+        /* 分类样式 */
+        .category-section { margin-bottom: 30px; }
+        .category-header { 
+            display: flex; align-items: center; justify-content: space-between;
+            padding: 18px 24px; margin-bottom: 16px;
+            background: var(--bg-card); border: 1px solid var(--border);
+            border-radius: 14px; cursor: pointer; backdrop-filter: blur(10px);
+            transition: all 0.3s; user-select: none;
+        }
+        .category-header:hover { border-color: var(--accent-blue); transform: translateY(-2px); box-shadow: 0 8px 20px rgba(0,0,0,0.1); }
+        .category-header-left { display: flex; align-items: center; gap: 16px; }
+        .category-icon { 
+            width: 44px; height: 44px; border-radius: 12px;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 1.3rem;
+        }
+        .category-title { font-size: 1.15rem; font-weight: 600; margin-bottom: 2px; }
+        .category-desc { font-size: 0.8rem; color: var(--text-secondary); }
+        .category-right { display: flex; align-items: center; gap: 12px; }
+        .category-count { 
+            font-size: 0.75rem; padding: 5px 14px; border-radius: 100px;
+            background: var(--accent-blue); color: #fff; font-weight: 500;
+        }
+        .category-arrow { 
+            font-size: 1rem; color: var(--text-secondary);
+            transition: transform 0.3s ease; 
+        }
+        .category-header.collapsed .category-arrow { transform: rotate(-90deg); }
+        .category-content { 
+            overflow: hidden; 
+            transition: max-height 0.5s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.3s ease;
+            opacity: 1;
+        }
+        .category-content.collapsed { 
+            max-height: 0 !important; 
+            opacity: 0;
+        }
+        .category-grid { 
+            display: grid; grid-template-columns: repeat(2, 1fr); 
+            gap: 20px; 
+        }
+
         .templates-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-bottom: 60px; }
         .template-block { background: var(--bg-card); border: 1px solid var(--border); border-radius: 14px; overflow: hidden; backdrop-filter: blur(10px); transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1); cursor: pointer; }
         .template-block:hover { border-color: var(--accent-blue); transform: translateY(-5px); box-shadow: 0 20px 40px rgba(0, 47, 167, 0.2); }
@@ -126,7 +169,7 @@
                 <div class="logo-text">XIAOLIN</div>
             </div>
             <h1>PPT <span>模板展示</span></h1>
-            <p>专业级演示文稿模板 · 11 种风格 · 点击缩略图查看完整演示</p>
+            <p>专业级演示文稿模板 · 点击分类标题可收起/展开</p>
         </header>
         <div class="stats">
             <div class="stat"><div class="stat-num" data-target="2">0</div><div class="stat-label">成品案例</div></div>
@@ -134,7 +177,7 @@
             <div class="stat"><div class="stat-num" data-target="88">0</div><div class="stat-label">总页面数</div></div>
             <div class="stat"><div class="stat-num" data-target="11">0</div><div class="stat-label">PPTX 文件</div></div>
         </div>
-        <div class="templates-grid" id="templatesGrid"></div>
+        <div id="templatesGrid"></div>
         <footer>
             <p>小林 PPT Studio · 专业级 PPT 动效模板</p>
             <p>每套模板均含自动入场动画 · 兼容 WPS / PowerPoint</p>
@@ -232,26 +275,83 @@
         
         function renderTemplateBlocks() {
             const grid = document.getElementById('templatesGrid');
-            templates.forEach((t, i) => {
-                const block = document.createElement('div');
-                block.className = 'template-block';
-                block.onclick = (e) => {
-                    block.classList.add('clicking');
-                    setTimeout(() => {
-                        block.classList.remove('clicking');
-                        openViewer(i, 0);
-                    }, 200);
-                };
-                const num = i < 2 ? `成品${i+1}` : `模板${String(i-1).padStart(2,'0')}`;
-                let thumbsHtml = '';
-                t.slides.forEach((s, j) => {
-                    thumbsHtml += `<div class="slide-thumb" onclick="event.stopPropagation(); openViewer(${i}, ${j})"><img src="${s}" alt="Slide ${j+1}"><div class="slide-num">${j+1}</div></div>`;
+            grid.innerHTML = '';
+            
+            const categories = [
+                { 
+                    name: '成品案例', 
+                    icon: '🏆', 
+                    color: '#c9a96e',
+                    desc: '完整的商业案例演示',
+                    indices: [0, 1]
+                },
+                { 
+                    name: '模板风格', 
+                    icon: '🎨', 
+                    color: '#4A7AFF',
+                    desc: '9 种专业设计风格',
+                    indices: [2, 3, 4, 5, 6, 7, 8, 9, 10]
+                }
+            ];
+            
+            categories.forEach(cat => {
+                const section = document.createElement('div');
+                section.className = 'category-section';
+                
+                const header = document.createElement('div');
+                header.className = 'category-header';
+                header.innerHTML = `
+                    <div class="category-header-left">
+                        <div class="category-icon" style="background:linear-gradient(135deg, ${cat.color}20, ${cat.color}40)">${cat.icon}</div>
+                        <div>
+                            <div class="category-title">${cat.name}</div>
+                            <div class="category-desc">${cat.desc}</div>
+                        </div>
+                    </div>
+                    <div class="category-right">
+                        <span class="category-count">${cat.indices.length} 个</span>
+                        <span class="category-arrow">▼</span>
+                    </div>
+                `;
+                
+                const contentDiv = document.createElement('div');
+                contentDiv.className = 'category-content';
+                const categoryGrid = document.createElement('div');
+                categoryGrid.className = 'category-grid';
+                
+                cat.indices.forEach(i => {
+                    const t = templates[i];
+                    const block = document.createElement('div');
+                    block.className = 'template-block';
+                    block.onclick = (e) => {
+                        block.classList.add('clicking');
+                        setTimeout(() => {
+                            block.classList.remove('clicking');
+                            openViewer(i, 0);
+                        }, 200);
+                    };
+                    const num = i < 2 ? `成品${i+1}` : `模板${String(i-1).padStart(2,'0')}`;
+                    let thumbsHtml = '';
+                    t.slides.forEach((s, j) => {
+                        thumbsHtml += `<div class="slide-thumb" onclick="event.stopPropagation(); openViewer(${i}, ${j})"><img src="${s}" alt="Slide ${j+1}"><div class="slide-num">${j+1}</div></div>`;
+                    });
+                    block.innerHTML = `<div class="template-header"><div class="template-info"><div class="template-num" style="background:${t.color}">${num}</div><div><div class="template-name">${t.name}</div><div style="font-size:0.75rem;color:var(--text-secondary)">${t.desc}</div></div></div><div class="template-tag" style="color:${t.color};border-color:${t.color}40">${t.desc}</div></div><div class="slides-row">${thumbsHtml}</div>`;
+                    categoryGrid.appendChild(block);
                 });
-                block.innerHTML = `<div class="template-header"><div class="template-info"><div class="template-num" style="background:${t.color}">${num}</div><div><div class="template-name">${t.name}</div><div style="font-size:0.75rem;color:var(--text-secondary)">${t.desc}</div></div></div><div class="template-tag" style="color:${t.color};border-color:${t.color}40">${t.desc}</div></div><div class="slides-row">${thumbsHtml}</div>`;
-                grid.appendChild(block);
+                
+                contentDiv.appendChild(categoryGrid);
+                
+                header.onclick = () => {
+                    header.classList.toggle('collapsed');
+                    contentDiv.classList.toggle('collapsed');
+                };
+                
+                section.appendChild(header);
+                section.appendChild(contentDiv);
+                grid.appendChild(section);
             });
         }
-        
+
         function openViewer(templateIndex, slideIndex = 0) {
             savedScrollY = window.scrollY;
             currentTemplate = templateIndex;
